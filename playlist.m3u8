@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/it.xml"
-#EXTINF:-1 tvg-chno="1" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai1.it" group-title="CANALI DTV", Rai 1
+#EXTINF:-1 tvg-chno="1" tvg-id="rai 1" tvg-name="Rai 1" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="CANALI DTV" user-agent="raiplayappletv",Rai 1
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
