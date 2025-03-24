@@ -1,12 +1,15 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/it.xml"
 #EXTINF:-1 tvg-chno="1" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai1.it" group-title="CANALI DTV", Rai 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-id="Rai2.it" group-title="CANALI DTV", Rai 2
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-chno="3" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-id="Rai3.it" group-title="CANALI DTV", Rai 3
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTVLCOPT:http-user-agent=rainet/4.0.5
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-chno="4" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-id="Rete.4.it" group-title="CANALI DTV", Rete 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
