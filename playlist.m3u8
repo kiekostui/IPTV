@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/it.xml"
 #EXTINF:-1 tvg-chno="1" tvg-name="Rai 1 Ⓖ" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai1.it" group-title="Italy", Rai 1
-https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma.m3u8
+https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma.m3u8?hdnea=st=1742854366~exp=1742854516~acl=/*~hmac=7af9b3af97e12698e0f845cd3b964eef431a09ecb2d707dcc84173c652638265
 #EXTINF:-1 tvg-chno="2" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-id="Rai2.it" group-title="CANALI DTV", Rai 2
 #EXTVLCOPT:http-user-agent=rainet/4.0.5
 #KODIPROP:inputstream.adaptive.manifest_type=hls
