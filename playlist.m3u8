@@ -1,622 +1,1086 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV3
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV7
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV9
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV10
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV11
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV12
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV14
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV15
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226230/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png",凤凰香港
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+#EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛1号场地
+http://play.cbalive.weibisai.com/live/3989485418196061_AiHD.m3u8?txSecret=2fc3d8820a53b64f9b0a039258211584&txTime=68B56090
+#EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛2号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛2号场地
 
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" tvg-name="A&E",A&E
-https://world-proxifier.xyz/daddylive/p/FDQQRF9IGVY8PUEGOxg=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABCNY",ABCNY
-https://world-proxifier.xyz/daddylive/p/FBAWGVNMT1IVRDg9RB8JDA==/index.m3u8
-#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us" tvg-name="Adult Swim" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/adult-swim-us.png" group-title="USA (DADDY LIVE)",Adult Swim
-https://world-proxifier.xyz/daddylive/p/FFQiWTxMTT5fWkE9PVkNARI=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="ACC.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/acc-network-us.png" tvg-name="ACC Network",ACC Network
-https://world-proxifier.xyz/daddylive/p/FBMWRARaLD4lJ11EQl0cSS88RAQBBw==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Altitude.Sports.-.Denver.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/altitude-sports-us.png?raw=true" tvg-name="Altitude Sports",Altitude Sports
-https://world-proxifier.xyz/daddylive/p/FFwhXjwqXEBFQCAkJzwoSS88RAkFBg==/index.m3u8
-#EXTINF:-1 tvg-id="Astro.Grandstand.my" tvg-name="Astro SuperSport Grandstand" tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Astro_Grandstand.png" group-title="SPORTS (DADDY LIVE)",Astro SuperSport Grandstand
-https://world-proxifier.xyz/daddylive/p/FCUhJzlMTTAkUiJAJTkvLFYFRDg9RBkNCw==/index.m3u8
-#EXTINF:-1 tvg-id="Astro.Football.my" tvg-name="Astro SuperSport Football" tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Astro_Football.png" group-title="SPORTS (DADDY LIVE)",Astro SuperSport Football
-https://world-proxifier.xyz/daddylive/p/FCUhJzlMTTAkUiJAJTkvLFYERDg9RBkNCg==/index.m3u8
-#EXTINF:-1 tvg-id="Astro.Premier.my" tvg-name="Astro SuperSport Premier League" tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Astro_Premier_League.png" group-title="SPORTS (DADDY LIVE)",Astro SuperSport Premier League
-https://world-proxifier.xyz/daddylive/p/FCUhJzlMTTAkUiJAJTkvLFYHRDg9RBkNDQ==/index.m3u8
-#EXTINF:-1 tvg-id="Astro.Premier.League.2.my" tvg-name="Astro SuperSport Premier League 2" tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Astro_Premier_League_2.png" group-title="SPORTS (DADDY LIVE)",Astro SuperSport Premier League 2
-https://world-proxifier.xyz/daddylive/p/FCUhJzlMTTAkUiJAJTkvLFYGRDg9RBkNDA==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" tvg-name="AMC",AMC
-https://world-proxifier.xyz/daddylive/p/FB0WRF9IGVY8PUEGOxs=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet",Animal Planet
-https://world-proxifier.xyz/daddylive/p/FF5eWktRSVdYVl5SIVk1MFYHOwI=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="AXS.TV.USA.HD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/axs-tv-us.png" tvg-name="AXS TV",AXS TV
-https://world-proxifier.xyz/daddylive/p/FEhARFxLSVBBFEE9PVkKChc=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="BBC.America.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bbc-america-us.png" tvg-name="BBC America (BBCA)",BBC America (BBCA)
-https://world-proxifier.xyz/daddylive/p/FRAWRAlSXzVfUFNEMwgdGwY9RDg9RBszDQ==/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="BBC.Four.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" tvg-name="BBC Four",BBC Four
-https://world-proxifier.xyz/daddylive/p/FRAWRAwsLzVFQhtEPSBMCxIN/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-name="BBC News Channel HD",BBC News Channel HD
-https://world-proxifier.xyz/daddylive/p/FRAWRARaITJFFlhWW0ZaVFYSF0E9PVkOCh4=/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="BBC.One.EastHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-one-uk.png" tvg-name="BBC One",BBC One
-https://ddy6new.newkso.ru/ddy6/premium356/mono.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="BBC.Three.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-three-uk.png" tvg-name="BBC Three",BBC Three
-https://world-proxifier.xyz/daddylive/p/FRAWRFxVKkBTREceRCA1SRQBAw==/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="BBC.Two.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-two-uk.png" tvg-name="BBC Two",BBC Two
-https://world-proxifier.xyz/daddylive/p/FRAWRFwkKVZDHkE9PVkODRA=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="beINSports.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-us.png" tvg-name="BeIN SPORTS",BeIN SPORTS
-https://world-proxifier.xyz/daddylive/p/FVccGVlISAhGQUVEQl0cSS88RAIFAA==/index.m3u8
-#EXTINF:-1 tvg-id="beINSports1.au" tvg-name="beIN SPORTS Australia 1" tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein1.png" group-title="SPORTS (DADDY LIVE)",beIN SPORTS Australia 1
-https://world-proxifier.xyz/daddylive/p/V1ccGVlISAhGQUVEFD8oLDVXWVtWRBlMMC9FBwkE/index.m3u8
-#EXTINF:-1 tvg-id="beINSports2.au" tvg-name="beIN SPORTS Australia 2" tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein2.png" group-title="SPORTS (DADDY LIVE)",beIN SPORTS Australia 2
-https://world-proxifier.xyz/daddylive/p/V1ccGVlISAhGQUVEFD8oLDVXWVtWRBhMMC9FBwkF/index.m3u8
-#EXTINF:-1 tvg-id="beINSports3.au)" tvg-name="beIN SPORTS Australia 3" tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Bein3.png" group-title="SPORTS (DADDY LIVE)",beIN SPORTS Australia 3
-https://world-proxifier.xyz/daddylive/p/V1ccGVlISAhGQUVEFD8oLDVXWVtWRBtMMC9FBwkG/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="BET.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" tvg-name="BET",BET
-https://world-proxifier.xyz/daddylive/p/FRVBRF9IGVY8PUEGOxw=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Big.Ten.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-name="Big Ten Network HD",Big Ten Network HD
-https://world-proxifier.xyz/daddylive/p/FRkSRFwYFFYYUiQsJDpQSSEUQRxEQl0cMVY8PUEGDB8=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Boomerang.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang",Boomerang
-https://world-proxifier.xyz/daddylive/p/FSEkWk8vW0ldRDg9RBwPDg==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" tvg-name="Bravo",Bravo
-https://world-proxifier.xyz/daddylive/p/FSJWIzlMT1IVRDg9RBszDw==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="C-SPAN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" tvg-name="C SPAN 1",C SPAN 1
-https://world-proxifier.xyz/daddylive/p/FkFARQkRSRZFPThEAh0z/index.m3u8
-#EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="CBCToronto(English).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-ca.png" tvg-name="CBC",CBC
-https://dokko1new.newkso.ru/dokko1/premium832/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CBS.(WWJ).Detroit,.MI.us" tvg-logo="https://i.imgur.com/qyUcJBI.png" tvg-name="CBS (WWJ)",CBS (WWJ)
-https://nfsnew.newkso.ru/nfs/premium52/mono.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png" tvg-name="CBS Sports Network (CBSSN)",CBS Sports Network (CBSSN)
-https://world-proxifier.xyz/daddylive/p/FhBARF0tKTUgIEEZUjwkKTVZRDYWFV1IFC5FPThEBiYL/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://pixvid.org/images/2025/02/06/golazo.png" tvg-name="CBS Sports Golazo Network",CBS Sports Golazo Network
-https://zekonew.newkso.ru/zeko/premium910/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png" tvg-name="CBSNY",CBSNY
-https://world-proxifier.xyz/daddylive/p/FhBAGVNMT1IVRDg9RB8JDw==/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Channel.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-4-uk.png" tvg-name="Channel 4",Channel 4
-https://windnew.newkso.ru/wind/premium354/mono.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Channel.5.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/channel-5-uk.png" tvg-name="Channel 5",Channel 5
-https://world-proxifier.xyz/daddylive/p/FlhWW0ZaVFYBREceRCA1SRQBAA==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",CINEMAX EAST
-https://world-proxifier.xyz/daddylive/p/FltbUkdeIFZDQBFEPSBMCxAG/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
-http://fl1.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Cinemax.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" tvg-name="CINEMAX WEST",CINEMAX WEST
-http://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="CITY.Montreal,.QC.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/city-tv-ca.png" tvg-name="Citytv",Citytv
-https://nfsnew.newkso.ru/nfs/premium831/mono.m3u8|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CLEO.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" tvg-name="Cleo TV",Cleo TV
-https://world-proxifier.xyz/daddylive/p/FlxSJFlJTlY8PUECBB0=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cmt-us.png" tvg-name="CMT",CMT
-https://world-proxifier.xyz/daddylive/p/Fh1BRF9IGVY8PUEBBx8=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CNBC.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" tvg-name="CNBC",CNBC
-https://world-proxifier.xyz/daddylive/p/FhwVFllKTQZFPThEBiYE/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-name="CNN",CNN
-https://world-proxifier.xyz/daddylive/p/FhwZRF9IGVY8PUEGBx0=/index.m3u8
-#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png" group-title="USA (DADDY LIVE)",Comedy Central
-https://world-proxifier.xyz/daddylive/p/FiFaUkwmSQRTWyQnVkRMMC9FBgE7/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Comet.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comet-us.png" tvg-name="Comet",Comet
-https://world-proxifier.xyz/daddylive/p/FiFaUjxMT1IVRDg9RBwEDA==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="The.Cooking.Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cooking-channel-us.png" tvg-name="Cooking Channel",Cooking Channel
-https://world-proxifier.xyz/daddylive/p/FiEkWENTUVYXXVNbW09RSVBBFEE9PVkJARA=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="COZITV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cozi-tv-us.png" tvg-name="COZI TV",COZI TV
-https://world-proxifier.xyz/daddylive/p/Fh9PHFlJTlZDQBFEPSBMDxUC/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Crime.and.Investigation.Network.USA.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/crime-and-investigation-uk.png?raw=true" tvg-name="Crime+ Investigation",Crime+ Investigation
-https://world-proxifier.xyz/daddylive/p/FiJeWk82SQ5aI1cgIUNUWzNfJF5EQl0cSS88RAQBDA==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1
-http://fl1.moveonjoy.com/CRAVE_1/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Crave2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2
-http://fl1.moveonjoy.com/CRAVE_2/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Crave3.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3
-http://fl1.moveonjoy.com/CRAVE_3/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4
-http://fl1.moveonjoy.com/CRAVE_4/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="CTV.(CFCN).Calgary,.AB.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-ca.png" tvg-name="CTV",CTV
-https://world-proxifier.xyz/daddylive/p/FkRDRAteVkRQVkE9PVkJNhc=/index.m3u8
-#EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="CTV.Two.Ottawa/CHRO.(CTV2O).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" tvg-name="CTV 2",CTV 2
-https://nfsnew.newkso.ru/nfs/premium838/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="CW.(WUCW).St..Paul,.MN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" tvg-name="CW (WUCW)",CW (WUCW)
-https://zekonew.newkso.ru/zeko/premium300/mono.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="U.and.Dave.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dave-uk.png" tvg-name="Dave",Dave
-https://world-proxifier.xyz/daddylive/p/F1MjUlk1MFYHBwY=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Destination.America.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/destination-america-us.png" tvg-name="Destination America",Destination America
-https://world-proxifier.xyz/daddylive/p/F1cgIUNTWzNfJF5EFEdaKkxRVkE9PVkJDRY=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel
-https://world-proxifier.xyz/daddylive/p/F1sgUDkrXzUvRBNdVkZTX0tFPThEBhkO/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Discovery.Family.Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png" tvg-name="Discovery Family",Discovery Family
-https://world-proxifier.xyz/daddylive/p/F1sgUDkrXzUvRBRWWkNRI1Y8PUEBAB8=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Discovery.Life.Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-life-us.png" tvg-name="Discovery Life Channel",Discovery Life Channel
-https://world-proxifier.xyz/daddylive/p/F1sgUDkrXzUvRBpeU09MG09XW15SWVk1MFYHBAE=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" tvg-name="Disney Channel",Disney Channel
-https://world-proxifier.xyz/daddylive/p/F1sgW08mSQRcVl5bUkRMMC9FBgEF/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/disney-junior-us.png" tvg-name="Disney JR",Disney JR
-https://world-proxifier.xyz/daddylive/p/F1sgW08mSQ9GRDg9RBwICA==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" tvg-name="Disney XD",Disney XD
-https://world-proxifier.xyz/daddylive/p/F1sgW08mSV8WRDg9RBsMCg==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/e-entertainment-us.png" tvg-name="E! Entertainment Television",E! Entertainment Television
-https://world-proxifier.xyz/daddylive/p/EDFEEEYpXzUgVltbWk9TLFZAUlxSI0MoUzZaRDg9RBsMDQ==/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="E4.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/E4_Logo.png" tvg-name="E4 Channel",E4 Channel
-https://world-proxifier.xyz/daddylive/p/EAJEFkBeVklTWUE9PVkODBQ=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" tvg-name="ESPN",ESPN
-https://world-proxifier.xyz/daddylive/p/EEVFGVlKTQZFPThEBxo=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="ESPN2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" tvg-name="ESPN 2",ESPN 2
-https://world-proxifier.xyz/daddylive/p/EEVFGRhMT1IVRDg9RBoI/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="ESPN.Deportes.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-deportes-us.png" tvg-name="ESPN Deportes",ESPN Deportes
-https://world-proxifier.xyz/daddylive/p/EEVFGVkfXzclJyRSIFk1MFYHAgU=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="ESPN.News.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnews-us.png" tvg-name="ESPNews",ESPNews
-https://world-proxifier.xyz/daddylive/p/EEVFGU8kLVY8PUEFAx4=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="ESPNU.On.Demand.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" tvg-name="ESPNU",ESPNU
-https://world-proxifier.xyz/daddylive/p/EEVFGV9MT1IVRDg9RBsMDA==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Eurosport.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-1-uk.png" tvg-name="EuroSport 1",EuroSport 1
-https://world-proxifier.xyz/daddylive/p/ECcnJF0tKTUgRAFEQgNMMC9FBwE=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Eurosport.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/eurosport-2-uk.png" tvg-name="EuroSport 2",EuroSport 2
-https://world-proxifier.xyz/daddylive/p/ECcnJF0tKTUgRABEQgNMMC9FBwA=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Detroit.HD.us" tvg-logo="https://i.imgur.com/1MDxLZf.png" tvg-name="FanDuel SN Detroit",FanDuel SN Detroit
-https://world-proxifier.xyz/daddylive/p/EVNbFz9aVFZBJSEnIT1MFEAgLCEnWFkfXzMmJFshRCA1SRENBA==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Florida.us" tvg-logo="https://i.imgur.com/fuCM2ei.png" tvg-name="FanDuel SN Florida",FanDuel SN Florida
-https://world-proxifier.xyz/daddylive/p/EVNbFz9aVFZBJSEnIT1MFEAgLCEnWFkZVDYmXlRWRCA1SRENBQ==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Great.Lakes.us" tvg-logo="https://i.imgur.com/mPpaZCR.png" tvg-name="FanDuel SN Great Lakes",FanDuel SN Great Lakes
-https://world-proxifier.xyz/daddylive/p/EVNbFz9aVFZBJSEnIT1MFEAgLCEnWFkaKkBXIUEfVkVaLVY8PUEDDBs=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Indiana.us" tvg-logo="https://i.imgur.com/HUgEVWQ.png" tvg-name="FanDuel SN Indiana",FanDuel SN Indiana
-https://world-proxifier.xyz/daddylive/p/EVNbFz9aVFZBJSEnIT1MFEAgLCEnWFkUVkNfVl5WRCA1SRENBw==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Midwest.-.Kansas.City.us" tvg-logo="https://i.imgur.com/Oo4Fayt.png" tvg-name="FanDuel SN Kansas City",FanDuel SN Kansas City
-https://zekonew.newkso.ru/zeko/premium895/mono.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Midwest.St..Louis.us" tvg-logo="https://i.imgur.com/gdm5VCX.png" tvg-name="FanDuel SN Midwest",FanDuel SN Midwest
-https://world-proxifier.xyz/daddylive/p/EVNbFz9aVFZBJSEnIT1MFEAgLCEnWFkQU0MtUiUhRCA1SRENAQ==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.North.us" tvg-logo="https://i.imgur.com/qfu8djF.png" tvg-name="FanDuel SN North",FanDuel SN North
-https://world-proxifier.xyz/daddylive/p/EVNbFz9aVFZBJSEnIT1MFEAgLCEnWFkRKTUgXUE9PVkLARE=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Ohio.-.Cleveland.us" tvg-logo="https://i.imgur.com/U4kf3x6.png" tvg-name="FanDuel SN Ohio",FanDuel SN Ohio
-https://world-proxifier.xyz/daddylive/p/EVNbFz9aVFZBJSEnIT1MFEAgLCEnWFkSUEwlRDg9RB4EAQ==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Oklahoma.us" tvg-logo="https://i.imgur.com/mx7lyh5.png" tvg-name="FanDuel SN Oklahoma",FanDuel SN Oklahoma
-https://world-proxifier.xyz/daddylive/p/EVNbFz9aVFZBJSEnIT1MFEAgLCEnWFkSVUtXXSFaVlk1MFYNOz4=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.SoCal.us" tvg-logo="https://i.imgur.com/yywNI3M.png" tvg-name="FanDuel SN SoCal",FanDuel SN SoCal
-https://world-proxifier.xyz/daddylive/p/EVNbFz9aVFZBJSEnIT1MFEAgLCEnWFlIKQRXWUE9PVkENhc=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.South.us" tvg-logo="https://i.imgur.com/SZfJfVM.png" tvg-name="FanDuel SN South",FanDuel SN South
-https://world-proxifier.xyz/daddylive/p/EVNbFz9aVFZBJSEnIT1MFEAgLCEnWFlIKTAgXUE9PVkENhQ=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Southeast.us" tvg-logo="https://i.imgur.com/Y7pFt5h.png" tvg-name="FanDuel SN Southeast",FanDuel SN Southeast
-https://world-proxifier.xyz/daddylive/p/EVNbFz9aVFZBJSEnIT1MFEAgLCEnWFlIKTAgXVdWIDxMMC9FDD4H/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Fanduel.Sports.Sun.us" tvg-logo="https://i.imgur.com/IapPEUD.png" tvg-name="FanDuel SN Sun",FanDuel SN Sun
-https://world-proxifier.xyz/daddylive/p/EVNbFz9aVFZBJSEnIT1MFEAgLCEnWFlIL0lFPThEDCYI/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.West.us" tvg-logo="https://i.imgur.com/cv546ko.png" tvg-name="FanDuel SN West",FanDuel SN West
-https://world-proxifier.xyz/daddylive/p/EVNbFz9aVFZBJSEnIT1MFEAgLCEnWFlEXzIgRDg9RBEzDA==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FanDuel.Sports.Network.Wisconsin.us" tvg-logo="https://i.imgur.com/Ku0ibaF.png" tvg-name="FanDuel SN Wisconsin",FanDuel SN Wisconsin
-https://world-proxifier.xyz/daddylive/p/EVNbFz9aVFZBJSEnIT1MFEAgLCEnWFlEUzJRJF4gXkZMMC9FDD4C/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Film4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/film-4-uk.png" tvg-name="Film4",Film4
-https://world-proxifier.xyz/daddylive/p/EVtZWhpMTwxFPThEAR4L/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="FOX.(WSVN).Miami,.FL.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" tvg-name="FOX (WSVN)",FOX (WSVN)
-https://zekonew.newkso.ru/zeko/premium54/mono.m3u8
-#EXTINF:-1 tvg-id="Fox.Business.us" tvg-name="Fox Business" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png" group-title="USA (DADDY LIVE)",Fox Business
-https://world-proxifier.xyz/daddylive/p/ESEtRAgqLUxaUiUgRCA1SRcNAg==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FoxCricket.alt.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" tvg-name="Fox Cricket",Fox Cricket
-https://world-proxifier.xyz/daddylive/p/ESEtRAsvU0JZUiREPSBMCxMN/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="8486" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/800px-FOX_Deportes_logo.svg.png" tvg-name="FOX Deportes",FOX Deportes
-https://world-proxifier.xyz/daddylive/p/ER9NRApaKDYmIVcgRF9IGVY8PUEBBxs=/index.m3u8
-#EXTINF:-1 tvg-id="Fox.News.us" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="USA (DADDY LIVE)",Fox News
-https://world-proxifier.xyz/daddylive/p/ESEtRARaITJFPThEBhoK/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FOX.Soccer.Plus.HD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" tvg-name="FOX Soccer Plus",FOX Soccer Plus
-https://world-proxifier.xyz/daddylive/p/ER9NRF0sXUJTJ0FFWT8oSS88RAcAAQ==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Fox.Sports.1.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" tvg-name="Fox Sports 1",Fox Sports 1
-https://world-proxifier.xyz/daddylive/p/ESEtRF0tKTUgIEEERF9IGVY8PUEGDA==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Fox.Sports.2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" tvg-name="Fox Sports 2",Fox Sports 2
-https://world-proxifier.xyz/daddylive/p/ESEtRF0tKTUgIEEFRF9IGVY8PUECAB4=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FoxLeague.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-league-502-au.png?raw=true" tvg-name="FOX Sports 502",FOX Sports 502
-https://world-proxifier.xyz/daddylive/p/ER9NRF0tKTUgIEEAOxhMGVBFPThEAxgz/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FoxSports503.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-503-au.png?raw=true" tvg-name="FOX Sports 503",FOX Sports 503
-https://world-proxifier.xyz/daddylive/p/ER9NRF0tKTUgIEEAOxtMGVBFPThEAxgM/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FoxFooty.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-footy-504-au.png?raw=true" tvg-name="FOX Sports 504",FOX Sports 504
-https://world-proxifier.xyz/daddylive/p/ER9NRF0tKTUgIEEAOxpMGVBFPThEAxgN/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" tvg-name="FOX Sports 505",FOX Sports 505
-https://world-proxifier.xyz/daddylive/p/ER9NRF0tKTUgIEEAOx1MGVBFPThEAxgO/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FoxSports506.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-506-au.png" tvg-name="FOX Sports 506",FOX Sports 506
-https://world-proxifier.xyz/daddylive/p/ER9NRF0tKTUgIEEAOxxMGVBFPThEAxgP/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="FoxSports507.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" tvg-name="FOX Sports 507",FOX Sports 507
-https://windnew.newkso.ru/wind/premium825/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Fox.Weather.(WDCA4).Washington,.DC.us" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png" tvg-name="Fox Weather Channel",Fox Weather Channel
-https://world-proxifier.xyz/daddylive/p/ESEtRFFaWzNcUiJEFkBeVklTWUE9PVkKDxI=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" tvg-name="FOXNY",FOXNY
-https://world-proxifier.xyz/daddylive/p/ER9NGVNMT1IVRDg9RB8JDg==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Freeform.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png" tvg-name="Freeform",Freeform
-https://world-proxifier.xyz/daddylive/p/ESJSUk4sKkhFPThEBiYM/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png" tvg-name="FX",FX
-https://world-proxifier.xyz/daddylive/p/EUhEQl0cSS88RAMEAg==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="FX.Movie.Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png" tvg-name="FX Movie Channel",FX Movie Channel
-https://world-proxifier.xyz/daddylive/p/EUhEGDkrU0BFFlhWW0ZaVFY8PUEGAxk=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png" tvg-name="FXX",FXX
-https://world-proxifier.xyz/daddylive/p/EUhNRF9IGVY8PUEFDB4=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="FYI.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png" tvg-name="FYI",FYI
-https://world-proxifier.xyz/daddylive/p/EUscRCA1SRMAAA==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/game-show-network-us.png" tvg-name="Game Show Network",Game Show Network
-https://world-proxifier.xyz/daddylive/p/ElNaUllIUDYtRBxSITEsKkpFPThEBhkE/index.m3u8
-#EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="GlobalToronto(English).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/global-ca.png" tvg-name="Global",Global
-https://dokko1new.newkso.ru/dokko1/premium836/mono.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Gold.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/gold-uk.png" tvg-name="Gold",Gold
-https://ddy6new.newkso.ru/ddy6/premium687/mono.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Golf.Channel.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png" tvg-name="GOLF Channel",GOLF Channel
-https://world-proxifier.xyz/daddylive/p/Eh8fEVkeUERaW1dZRF9IGVY8PUEGBB4=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Great.American.Family.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/great-american-family-us.png" tvg-name="Great American Family",Great American Family
-https://world-proxifier.xyz/daddylive/p/EiJSVjxMGUhTJ1tQVkZMHERbXlwuRAtVW0laUlxEPSBMDB4N/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Grit.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/grit-us.png" tvg-name="Grit Channel",Grit Channel
-https://world-proxifier.xyz/daddylive/p/EiJeIVkeUERaW1dZRCA1SRABBQ==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-mystery-us.png" tvg-name="Hallmark Movies & Mysterie",Hallmark Movies & Mysterie
-https://world-proxifier.xyz/daddylive/p/E1NZWUdeKkpFGCEjXk8oSSNFGCsgIU8vU0AhRDg9RBgEDA==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" tvg-name="HBO",HBO
-https://world-proxifier.xyz/daddylive/p/ExAaRF9IGVY8PUEGBRk=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-comedy-us.png" tvg-name="HBO Comedy",HBO Comedy
-https://world-proxifier.xyz/daddylive/p/ExAaRAssV0BQLkFCQAlMMC9FAQk7/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" tvg-name="HBO Family",HBO Family
-https://world-proxifier.xyz/daddylive/p/ExAaRAxeV0xYLkFCQAlMMC9FAQkE/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" tvg-name="HBO Signature",HBO Signature
-https://world-proxifier.xyz/daddylive/p/ExAaRF1WUUlXIScnUllKTQZFPThEAREO/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" tvg-name="HBO Zone",HBO Zone
-https://world-proxifier.xyz/daddylive/p/ExAaRFIsVkBFQkUURCA1SRMNBw==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-2-us.png" tvg-name="HBO2",HBO2
-https://world-proxifier.xyz/daddylive/p/ExAaBVlKTQZFPThEAR4E/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="HLN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hln-us.png" tvg-name="Headline News",Headline News
-https://world-proxifier.xyz/daddylive/p/E1dWUURWVkBFGVcsIFk1MFYHBQM=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" tvg-name="HGTV",HGTV
-https://world-proxifier.xyz/daddylive/p/ExdBQ1k1MFYHAwA=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" tvg-name="History",History
-https://world-proxifier.xyz/daddylive/p/E1sgITkvI1ZDQBFEPSBMCxcE/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Independent.Film.Channel.US.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/ifc-us.png" tvg-name="IFC TV",IFC TV
-https://world-proxifier.xyz/daddylive/p/HBQWRFxLSVBBFEE9PVkJDRM=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Investigation.Discovery.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/investigation-discovery-us.png" tvg-name="Investigation Discovery (ID)",Investigation Discovery (ID)
-https://world-proxifier.xyz/daddylive/p/HF4jUj0pU05XIVskW1kfUzJRJCZSJzNMPg4WREdAFCFMMC9FBgAH/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/ion-television-us.png" tvg-name="ION",ION
-https://world-proxifier.xyz/daddylive/p/HB8ZRF9IGVY8PUEGBR0=/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="ITV1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-1-uk.png" tvg-name="ITV 1",ITV 1
-https://world-proxifier.xyz/daddylive/p/HERDRBlMTwxFPThEBh0z/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="ITV2.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-2-uk.png" tvg-name="ITV 2",ITV 2
-https://world-proxifier.xyz/daddylive/p/HERDRBhMTwxFPThEBh0M/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="ITV3.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-3-uk.png" tvg-name="ITV 3",ITV 3
-https://world-proxifier.xyz/daddylive/p/HERDRBtMTwxFPThEBh0N/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="ITV4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/itv-4-uk.png" tvg-name="ITV 4",ITV 4
-https://world-proxifier.xyz/daddylive/p/HERDRBpMTwxFPThEBh0O/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Lifetime.Movies.-.East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/LMN_logo_2016.svg/1200px-LMN_logo_2016.svg.png" tvg-name="Lifetime Movies Network",Lifetime Movies Network
-https://world-proxifier.xyz/daddylive/p/H1tTUjxWV0BFGCEjXk8oSQtTISkkJ0VMMC9FBgYM/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" tvg-name="Lifetime Network",Lifetime Network
-https://world-proxifier.xyz/daddylive/p/H1tTUjxWV0BFGVchLDkvVVY8PUEGBRw=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="LFCTV.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/lfctv-uk.png" tvg-name="Liverpool TV (LFC TV)",Liverpool TV (LFC TV)
-https://world-proxifier.xyz/daddylive/p/H1sjUjotKTZYRERDRC4XHARFQUY8RCA1SREEAQ==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Magnolia.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/magnolia-network-us.png" tvg-name="Magnolia Network",Magnolia Network
-https://world-proxifier.xyz/daddylive/p/GFNcWzlRU0RFGVchLDkvVVY8PUEFDBE=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="MARQ.Marquee.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/marquee-sports-network-us.png" tvg-name="Marquee Sports Network",Marquee Sports Network
-https://world-proxifier.xyz/daddylive/p/GFMnJj9aX1ZBJSEnIT1MFEAgLCEnWFk1MFYDAj4=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Mid-Atlantic.Sports.Network.2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/masn-us.png" tvg-name="MASN",MASN
-https://world-proxifier.xyz/daddylive/p/GBFAGVlKTQZFPThEAxgE/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="MavTV.USA.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTowwKlIECbPIzGyK6WcOyg7FRXPP_7ips1MhqsUEk6&s" tvg-name="MAVTV",MAVTV
-https://world-proxifier.xyz/daddylive/p/GBFDQV5MT1IVRDg9RBwPDA==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Me.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/me-tv-us.png" tvg-name="METV",METV
-https://world-proxifier.xyz/daddylive/p/GBVBQ1lKTQZFPThEARwN/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" tvg-name="MGM+",MGM+
-https://world-proxifier.xyz/daddylive/p/GBcYPllKTQZFOkEQJUMlSS88RAcMBA==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" tvg-name="MGM+ HITS",MGM+ HITS
-https://fl1.moveonjoy.com/EPIX_HITS/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-marquee-us.png?raw=true" tvg-name="MGM+ MARQUEE",MGM+ MARQUEE
-https://fl1.moveonjoy.com/EPIX_2/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="MLB.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png" tvg-name="MLB Network",MLB Network
-https://world-proxifier.xyz/daddylive/p/GBoVRARaLD4lJ11EQl0cSS88RAMMDA==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Motor.Trend.HD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png" tvg-name="Motor Trend",Motor Trend
-https://world-proxifier.xyz/daddylive/p/GCEhJDpMTDVTW1REPSBMDBMF/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="MSG.(Madison.Square.Gardens).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msg-us.png" tvg-name="MSG",MSG
-https://world-proxifier.xyz/daddylive/p/GEUSRF9IGVY8PUECAR0=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="MSNBC.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-alt-us.png" tvg-name="MSNBC",MSNBC
-https://world-proxifier.xyz/daddylive/p/GEUZFQtMMC9FBgAC/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png" tvg-name="MTV",MTV
-https://world-proxifier.xyz/daddylive/p/GERDRF9IGVY8PUEGAhk=/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="MTV.MUSIC.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mtv-uk.png" tvg-name="MTV",MTV
-https://world-proxifier.xyz/daddylive/p/GERDRF9IGVY8PUEGAhk=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="MTV.Classic.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" tvg-name="MTV Classic",MTV Classic
-http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/1194.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="MTV.Live.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" tvg-name="MTV Live",MTV Live
-http://fl1.moveonjoy.com/MTV_LIVE/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="MTV.2.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" tvg-name="MTV2",MTV2
-http://fl1.moveonjoy.com/MTV_2/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="MTV-U.(MTV-U).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" tvg-name="mtvU",mtvU
-http://fl1.moveonjoy.com/MTV_U/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="MUTV.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/mutv-uk.png" tvg-name="MUTV",MUTV
-https://world-proxifier.xyz/daddylive/p/GEdBQ1lKE1Y8PUEGAh8=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="MNT.(WWOR).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/640px-WWOR_NewJersey.svg.png" tvg-name="MY9TV",MY9TV
-https://world-proxifier.xyz/daddylive/p/GEsMQV5MT1IVRDg9RBwICg==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="National.Geographic.Wild.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png" tvg-name="Nat Geo Wild",Nat Geo Wild
-https://world-proxifier.xyz/daddylive/p/GVMhRA9aKVZNXlxRRF9IGVY8PUECBx0=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/national-geographic-us.png" tvg-name="National Geographic (NGC)",National Geographic (NGC)
-https://world-proxifier.xyz/daddylive/p/GVMhXjlTW0tFElckXDpeKE9fUEEzGQ8eMVY8PUEGBR4=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" tvg-name="NBA TV",NBA TV
-https://world-proxifier.xyz/daddylive/p/GRAURFxLSVBBFEE9PVkPNhU=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png" tvg-name="NBC (KNBC)",NBC (KNBC)
-https://windnew.newkso.ru/wind/premium53/mono.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="NBC.Sports.Bay.Area.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" tvg-name="NBC Sports Bay Area",NBC Sports Bay Area
-https://world-proxifier.xyz/daddylive/p/GRAWRF0tKTUgIEEVVjNMGTVTVkE9PVkKDRQ=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="NBC.Sports.Boston.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-sports-us.png?raw=true" tvg-name="NBC Sports Boston",NBC Sports Boston
-https://world-proxifier.xyz/daddylive/p/GRAWRF0tKTUgIEEVJD0pKUlFPThEAh0P/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="NBC.Sports.California.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-california-us.png?raw=true" tvg-name="NBC Sports California",NBC Sports California
-https://world-proxifier.xyz/daddylive/p/GRAWRF0tKTUgIEEWVkRWXjYmW1tWRCA1SRABAA==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="NBC.Sports.Chicago.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-sports-chicago-us.png" tvg-name="NBC Sports Chicago",NBC Sports Chicago
-https://windnew.newkso.ru/wind/premium776/mono.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-philadelphia-us.png?raw=true" tvg-name="NBC Sports Philadelphia",NBC Sports Philadelphia
-https://world-proxifier.xyz/daddylive/p/GRAWRF0tKTUgIEFFXUNRW0NTWSBdXktMMC9FAgcC/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Monumental.Sports.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbcsn-washington-us.png?raw=true" tvg-name="NBC Sports Washington",NBC Sports Washington
-https://world-proxifier.xyz/daddylive/p/GRAWRF0tKTUgIEFMVj1VU0ldISFbRCA1SRADAw==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/2077px-NBC_logo.svg.png" tvg-name="NBCNY",NBCNY
-https://world-proxifier.xyz/daddylive/p/GRAWGVNMT1IVRDg9RB8JAQ==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nesn-us.png" tvg-name="NESN",NESN
-https://world-proxifier.xyz/daddylive/p/GRVAGVlKTQZFPThEAhwN/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="NewsMax.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/newsmax-tv-us.png" tvg-name="Newsmax",Newsmax
-https://world-proxifier.xyz/daddylive/p/GVcsIEdeIFZDQBFEPSBMDBYH/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="NewsNation.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/news-nation-us.png" tvg-name="NewsNation",NewsNation
-https://world-proxifier.xyz/daddylive/p/GVcsIAReLEwlW0FCQAlMMC9FBQkF/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="NFL.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" tvg-name="NFL Network",NFL Network
-https://world-proxifier.xyz/daddylive/p/GRQfRARaLD4lJ11EPSBMCikB/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="NFL.RedZone.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true" tvg-name="NFL RedZone",NFL RedZone
-https://nfsnew.newkso.ru/nfs/premium667/mono.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="NHL.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" tvg-name="NHL Network",NHL Network
-https://world-proxifier.xyz/daddylive/p/GRYfRARaLD4lJ11EQl0cSS88RAQBBg==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="Nickelodeon",Nickelodeon
-https://world-proxifier.xyz/daddylive/p/GRkWHlk1MFYHBj4=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Nick.Jr..-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" tvg-name="NickJr",NickJr
-https://world-proxifier.xyz/daddylive/p/GRkWHlkVSlY8PUEGBRE=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Nick.Music.(NICM).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" tvg-name="NickMusic USA",NickMusic USA
-https://world-proxifier.xyz/daddylive/p/GVtQWFkQLzJfUEE9PVkJDBM=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Nicktoons.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" tvg-name="NickToons",NickToons
-https://world-proxifier.xyz/daddylive/p/GVtQWDwsKUkhRDg9RBwPAQ==/index.m3u8
-#EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="Noovo(CFJP)MontrealQC(src01).ca" tvg-logo="https://i.imgur.com/DK8UT1f.png" tvg-name="Noovo",Noovo
-https://dokko1new.newkso.ru/dokko1/premium835/mono.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Oprah.Winfrey.Network.USA.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/oprah-winfrey-network-us.png" tvg-name="Oprah Winfrey Network (OWN)",Oprah Winfrey Network (OWN)
-https://world-proxifier.xyz/daddylive/p/GiAnVkBMQUxaUyJSLlkRXzMtJCJYRC4SQQs9RDg9RBsOCQ==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-true-crime-us.png" tvg-name="Oxygen True Crime",Oxygen True Crime
-https://world-proxifier.xyz/daddylive/p/GiguXE9TSVMmIldEFjpWV0BFPThEBhsN/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" tvg-name="Paramount Network",Paramount Network
-https://world-proxifier.xyz/daddylive/p/RVMnVkcsL0kgRBxSITEsKkpFPThEBhsP/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="POP.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/pop-us.png" tvg-name="POP TV",POP TV
-https://world-proxifier.xyz/daddylive/p/RR9FRFxLSVBBFEE9PVkJDRQ=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Racing.TV.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/racing-tv-uk.png" tvg-name="Racing Tv UK",Racing Tv UK
-https://world-proxifier.xyz/daddylive/p/R1NQXkZUSVMiREceRCA1SRIBAA==/index.m3u8
-#EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="RDS.(Réseau.des.sports).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-ca.png" tvg-name="RDS",RDS
-https://world-proxifier.xyz/daddylive/p/RxJARAscSS88RAYGDA==/index.m3u8
-#EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="CTV.--.Réseau.des.Sports.2.HDTV.(RDS2HD).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-2-ca.png" tvg-name="RDS 2",RDS 2
-https://dokko1new.newkso.ru/dokko1/premium840/mono.m3u8
-#EXTINF:-1 group-title="Canada (DADDY LIVE)" tvg-id="RDS.Info.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/rds-info-ca.png" tvg-name="RDS Info",RDS Info
-https://world-proxifier.xyz/daddylive/p/RxJARAFTXjZFFhFEPSBMDhUF/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="ReelzChannel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/reelz-us.png" tvg-name="Reelz Channel",Reelz Channel
-https://world-proxifier.xyz/daddylive/p/R1dSWTJMG09XW15SWVk1MFYEDAM=/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="RTE.One.HD.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-one-uk.png" tvg-name="RTE 1",RTE 1
-https://world-proxifier.xyz/daddylive/p/R0QQRBlMMC9FBgQH/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="RTE.Two.HD.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/rte-2-uk.png" tvg-name="RTE 2",RTE 2
-https://world-proxifier.xyz/daddylive/p/R0QQRBhMMC9FBgQA/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="S4C.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/s4c-uk.png" tvg-name="S4C",S4C
-https://world-proxifier.xyz/daddylive/p/QAIWRF8WSS88RAQCOw==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Science.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/discovery-science-us.png" tvg-name="Science Channel",Science Channel
-https://world-proxifier.xyz/daddylive/p/QFVeUkZYX1YXXVNbW09RSS88RAAMBw==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="SEC.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sec-network-us.png" tvg-name="SEC Network",SEC Network
-https://world-proxifier.xyz/daddylive/p/QBUWRARaLD4lJ11EQl0cSS88RAMDAA==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" tvg-name="Showtime USA",Showtime USA
-https://world-proxifier.xyz/daddylive/p/QFgkLDxWV0BFQkUURCA1SRQHBg==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="SHOXBET.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-shoxbet-usa.png" tvg-name="Showtime SHOxBET",Showtime SHOxBET
-https://world-proxifier.xyz/daddylive/p/QFgkLDxWV0BFQBYaLQgYTFZDQBFEPSBMDBEB/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Sony.Movies.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" tvg-name="Sony Movie Channel",Sony Movie Channel
-https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Arts.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-arts-uk.png" tvg-name="Sky Arts",Sky Arts
-https://world-proxifier.xyz/daddylive/p/QF0uRAkvLDJFQhtEPSBMDBEH/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/2560px-Sky_Atlantic_-_Logo_2020.svg.png" tvg-name="Sky Atlantic",Sky Atlantic
-https://world-proxifier.xyz/daddylive/p/QF0uRAkpVERaIVtQRCA1SRQABQ==/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Action.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-action-uk.png" tvg-name="Sky Cinema Action",Sky Cinema Action
-https://world-proxifier.xyz/daddylive/p/QF0uRAtWVkBbVkEUUDxWKUlFQhtEPSBMDBAD/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="SkyAnimationHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-animation-uk.png" tvg-name="Sky Cinema Animation",Sky Cinema Animation
-https://world-proxifier.xyz/daddylive/p/QF0uRAtWVkBbVkEUW0NSWzNfJF5EQgNMMC9FAQcA/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Drama.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-cinema-drama-uk.png?raw=true" tvg-name="Sky Cinema Drama",Sky Cinema Drama
-https://world-proxifier.xyz/daddylive/p/QF0uRAtWVkBbVkEXJ0tSW1ZDHkE9PVkJDik=/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Family.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-family-uk.png" tvg-name="Sky Cinema Family",Sky Cinema Family
-https://world-proxifier.xyz/daddylive/p/QF0uRAtWVkBbVkERVkdWVDxFQhtEPSBMDBAA/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Greats.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-greats-uk.png" tvg-name="Sky Cinema Greats",Sky Cinema Greats
-https://world-proxifier.xyz/daddylive/p/QF0uRAtWVkBbVkESJ09eLDJFQhtEPSBMDBAG/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-hits-uk.png" tvg-name="Sky Cinema Hits",Sky Cinema Hits
-https://world-proxifier.xyz/daddylive/p/QF0uRAtWVkBbVkETXjwoSVAfRDg9RBwKCw==/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Premiere.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-premiere-uk.png" tvg-name="Sky Cinema Premiere",Sky Cinema Premiere
-https://world-proxifier.xyz/daddylive/p/QF0uRAtWVkBbVkFFJ09SU0AmUkFCHlk1MFYAAgE=/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Sci-Fi.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-sci-fi-and-horror-uk.png" tvg-name="Sky Cinema Sci-Fi Horror",Sky Cinema Sci-Fi Horror
-https://ddy6new.newkso.ru/ddy6/premium681/mono.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Cinema.Select.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-select-uk.png" tvg-name="Sky Cinema Select",Sky Cinema Select
-https://world-proxifier.xyz/daddylive/p/QF0uRAtWVkBbVkFAUkRaXTNFQhtEPSBMDBAE/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Thriller.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-thriller-uk.png" tvg-name="Sky Cinema Thriller",Sky Cinema Thriller
-https://world-proxifier.xyz/daddylive/p/QF0uRAtWVkBbVkFBXTpWVEtTJ0FCHlk1MFYAAgk=/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-comedy-uk.png" tvg-name="Sky Comedy",Sky Comedy
-https://world-proxifier.xyz/daddylive/p/QF0uRAssV0BQLkFCHlk1MFYAAwI=/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Crime.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-crime-uk.png" tvg-name="Sky Crime",Sky Crime
-https://world-proxifier.xyz/daddylive/p/QF0uRAsvU0hTRDg9RBwLDQ==/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.HistoryHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-history-uk.png" tvg-name="Sky History",Sky History
-https://world-proxifier.xyz/daddylive/p/QF0uRA5WLTMlJytEPSBMDBEA/index.m3u8
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="SkyShowcaseHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-showcase-uk.png" tvg-name="Sky Showcase",Sky Showcase
-https://windnew.newkso.ru/wind/premium682/mono.m3u8
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="Sky.Sport.Top.Event.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-de.png" tvg-name="Sky Sport Top Event DE",Sky Sport Top Event DE
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgREQkJVkYLkBaIUEXEFk1MFYBAAQ=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkyRacing1.au" tvg-logo="https://i.imgur.com/Hf0EiaW.png" tvg-name="Sky Racing 1",Sky Racing 1
-https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkyRacing2.au" tvg-logo="https://i.imgur.com/TxQvFnQ.png" tvg-name="Sky Racing 2",Sky Racing 2
-https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkyThoroughbredCentral.au" tvg-logo="https://i.imgur.com/1SxIsnw.png" tvg-name="Sky Thoroughbred Central",Sky Thoroughbred Central
-https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png" tvg-name="Sky Sports Action UK",Sky Sports Action UK
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgIEEUUDxWKUlFQhtEPSBMCxA=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sky.Sports.Plus.HD.ie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-arena-uk.png" tvg-name="Sky Sports Arena UK",Sky Sports Arena UK
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgIEEUJ09TW1ZDHkE9PVkODA==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.Cricket.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" tvg-name="Sky Sports Cricket",Sky Sports Cricket
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgIEEWJ0NYVUAgRDg9RBwI/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" tvg-name="Sky Sports F1 UK",Sky Sports F1 UK
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgIEERBFlKE1Y8PUEBOw==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png" tvg-name="Sky Sports Football UK",Sky Sports Football UK
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgIEERJDkpWkRYWUFCHlk1MFYHAA==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" tvg-name="Sky Sports Golf UK",Sky Sports Golf UK
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgIEESJERbSVAfRDg9RB8z/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/sky-sports-main-event-hd-uk.png" tvg-name="Sky Sports Main Event",Sky Sports Main Event
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgIEEYVkNTSQIiUl4hRCA1SRQC/index.m3u8
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="Sky.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png" tvg-name="Sky Sports MIX UK",Sky Sports MIX UK
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgIEEYHFBMTwxFPThEBxoE/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" tvg-name="Sky Sports News",Sky Sports News
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgIEEZUjEoSVAfRDg9RBsJDA==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.PL.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" tvg-name="Sky sports Premier League",Sky sports Premier League
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgIEFFJ09SU0AmRBpSVkEqX1Y8PUEEBiY=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-racing-uk.png?raw=true" tvg-name="Sky Sports Racing UK",Sky Sports Racing UK
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgIEFHVk1WVk5FQhtEPSBMDRIG/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SkySp.Tennis.uk" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sports_Tennis.png" tvg-name="Sky Sports Tennis",Sky Sports Tennis
-https://a1xs.vip/2000013|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="UK (DADDY LIVE)" tvg-id="Sky.Witness.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-witness-uk.png" tvg-name="Sky Witness HD",Sky Witness HD
-https://world-proxifier.xyz/daddylive/p/QF0uRFFWLElTICVEEwpMMC9FBgQE/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Space.City.Home.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/space-city-home-network-us.png" tvg-name="Space City (SCHN)",Space City (SCHN)
-https://world-proxifier.xyz/daddylive/p/QCBWUE9MG0wgLkETJEdaSQtTISkkJ0VMMC9FDAAE/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Spectrum.Sportsnet.Lakers.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/spectrum-sportsnet-la-us.png" tvg-name="Spectrum Sportsnet LA",Spectrum Sportsnet LA
-https://world-proxifier.xyz/daddylive/p/QCBSUDwvL0hFQCAkJzwoVkAgRBoURCA1SRAABw==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sportsnet.360.ca" tvg-logo="https://w7.pngwing.com/pngs/746/852/png-transparent-sportsnet-360-cfac-calgary-flames-national-hockey-league-others-text-logo-world.png" tvg-name="Sportsnet 360",Sportsnet 360
-https://world-proxifier.xyz/daddylive/p/QCAkJzwoVkAgRAMBO1k1MFYGOwk=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" tvg-name="Sportsnet East",Sportsnet East
-https://world-proxifier.xyz/daddylive/p/QCAkJzwoVkAgRBVWIDxMMC9FBz4D/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/1200px-SNY_logo.svg.png" tvg-name="SportsNet New York (SNY)",SportsNet New York (SNY)
-https://world-proxifier.xyz/daddylive/p/QCAkJzwoFEAgRBxSLFlGKTVZRDZAGVM0SS88RAcADA==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sportsnet.One.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s68859_h15_ac.png" tvg-name="Sportsnet One",Sportsnet One
-https://world-proxifier.xyz/daddylive/p/QCAkJzwoVkAgRB9bUlk1MFYGBAE=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" tvg-name="Sportsnet Ontario",Sportsnet Ontario
-https://world-proxifier.xyz/daddylive/p/QCAkJzwoVkAgRB9bIUsvUzZFPThEByYJ/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="SportsNet.Pittsburgh.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sportsnet-pittsburgh-us.png" tvg-name="SportsNet Pittsburgh",SportsNet Pittsburgh
-https://world-proxifier.xyz/daddylive/p/QCAkJzwoFEAgREBeITwoWjAmXFhEPSBMARcE/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" tvg-name="Sportsnet West",Sportsnet West
-https://world-proxifier.xyz/daddylive/p/QCAkJzwoVkAgRElSIDxMMC9FBz4C/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Sportsnet.World.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-world-ca.png" tvg-name="Sportsnet World",Sportsnet World
-https://world-proxifier.xyz/daddylive/p/QCAkJzwoVkAgREkkJ0RZSS88RAIEOw==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="Starz",Starz
-https://world-proxifier.xyz/daddylive/p/QCRWJzJMMC9FBgMA/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" tvg-name="Starz Comedy",Starz Comedy
-http://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Starz.Edge.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" tvg-name="Starz Edge",Starz Edge
-http://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Starz.Encore.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" tvg-name="Starz Encore",Starz Encore
-http://fl1.moveonjoy.com/STARZ_ENCORE/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Starz.Encore.Action.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" tvg-name="Starz Encore Action",Starz Encore Action
-http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Starz.Encore.Classic.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-classic-us.png?raw=true" tvg-name="STARZ ENCORE CLASSIC",STARZ ENCORE CLASSIC
-http://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" tvg-name="Starz Encore Westerns",Starz Encore Westerns
-http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Starz.-.Pacific.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="STARZ WEST",STARZ WEST
-http://fl1.moveonjoy.com/STARZ_WEST/index.m3u8|User-Agent=Mozilla/5.0 (X11; U; Linux x86_64; pl-PL; rv:2.0) Gecko/20110307 Firefox/4.0|Referer=https://jxoplay.xyz/|Origin=https://jxoplay.xyz
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="SundanceTV.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-tv-us.png" tvg-name="Sundance TV",Sundance TV
-https://world-proxifier.xyz/daddylive/p/QCdbUUtTXUBFQUZEPSBMDBIC/index.m3u8
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="ACTION.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-action-za.png?raw=true" tvg-name="SuperSport Action",SuperSport Action
-https://world-proxifier.xyz/daddylive/p/QCclUjpIKDYmIUEUUDxWKUlFPThEBxgz/index.m3u8
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="CRICKET.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-cricket-za.png?raw=true" tvg-name="SuperSport Cricket",SuperSport Cricket
-https://world-proxifier.xyz/daddylive/p/QCclUjpIKDYmIUEWJ0NYVUAgRDg9RBsJDg==/index.m3u8
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="FOOTBALL.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-football-za.png?raw=true" tvg-name="Supersport Football",Supersport Football
-https://world-proxifier.xyz/daddylive/p/QCclUjooKDYmIUERJDkpWkRYWUE9PVkIDA==/index.m3u8
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="GOLF.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-golf-za.png?raw=true" tvg-name="SuperSport Golf",SuperSport Golf
-https://world-proxifier.xyz/daddylive/p/QCclUjpIKDYmIUESJERbSS88RAIFBQ==/index.m3u8
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="GRANDSTAND.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-grandstand-za.png?raw=true" tvg-name="SuperSport Grandstand",SuperSport Grandstand
-https://world-proxifier.xyz/daddylive/p/QCclUjpIKDYmIUESJ0tTXDIgVl5RRCA1SRUFBQ==/index.m3u8
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="LA.LIGA.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-laliga-za.png?raw=true" tvg-name="SuperSport LaLiga",SuperSport LaLiga
-https://world-proxifier.xyz/daddylive/p/QCclUjpIKDYmIUEfVgJWUURFPThEBxkI/index.m3u8
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="MAXIMO.1.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-maximo1-za.png?raw=true" tvg-name="SuperSport MaXimo 1",SuperSport MaXimo 1
-https://world-proxifier.xyz/daddylive/p/QCclUjpIKDYmIUEYVlBWVzZFBEE9PVkIDxc=/index.m3u8
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="SS.Premier.League.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-premier-league-za.png?raw=true" tvg-name="SuperSport Premier league",SuperSport Premier league
-https://world-proxifier.xyz/daddylive/p/QCclUjpIKDYmIUFFJ09SU0AmRFxSVkEqX1Y8PUEHBBo=/index.m3u8
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="PSL.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-psl-za.png?raw=true" tvg-name="SuperSport PSL",SuperSport PSL
-https://world-proxifier.xyz/daddylive/p/QCclUjpIKDYmIUFFQAJMMC9FBwEG/index.m3u8
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="RUGBY.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-rugby-za.png?raw=true" tvg-name="SuperSport Rugby",SuperSport Rugby
-https://world-proxifier.xyz/daddylive/p/QCclUjpIKDYmIUFHIkFfI1Y8PUEHBRk=/index.m3u8
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="TENNIS.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-tennis-za.png?raw=true" tvg-name="SuperSport Tennis",SuperSport Tennis
-https://world-proxifier.xyz/daddylive/p/QCclUjpIKDYmIUFBUkZTUzJFPThEBxgO/index.m3u8
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="VARIETY.1.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety1-za.png?raw=true" tvg-name="SuperSport Variety 1",SuperSport Variety 1
-https://world-proxifier.xyz/daddylive/p/QCclUjpIKDYmIUFDVjpWXzMvRAFEPSBMChYA/index.m3u8
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="VARIETY.3.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety3-za.png?raw=true" tvg-name="SuperSport Variety 3",SuperSport Variety 3
-https://world-proxifier.xyz/daddylive/p/QCclUjpIKDYmIUFDVjpWXzMvRANEPSBMChYC/index.m3u8
-#EXTINF:-1 group-title="SPORTS MISC (DADDY LIVE)" tvg-id="VARIETY.4.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety4-za.png?raw=true" tvg-name="SuperSport Variety 4",SuperSport Variety 4
-https://world-proxifier.xyz/daddylive/p/QCclUjpIKDYmIUFDVjpWXzMvRAJEPSBMChYN/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png" tvg-name="SYFY",SYFY
-https://world-proxifier.xyz/daddylive/p/QEsRTllKTQZFPThEBh8O/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="TBS.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" tvg-name="TBS",TBS
-https://world-proxifier.xyz/daddylive/p/QRBARF9IGVY8PUEGBhw=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Turner.Classic.Movies.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tcm-us.png" tvg-name="TCM",TCM
-https://world-proxifier.xyz/daddylive/p/QRMYRF9IGVY8PUEBBxo=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="TeenNick.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/teen-nick-us.png" tvg-name="TeenNick",TeenNick
-https://world-proxifier.xyz/daddylive/p/QVdSWwRWXUpFPThEAR0z/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png" tvg-name="Telemundo",Telemundo
-https://world-proxifier.xyz/daddylive/p/QVdZUkcqVkMlRDg9RBkOCQ==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="The.Tennis.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" tvg-name="Tennis Channel",Tennis Channel
-https://world-proxifier.xyz/daddylive/p/QVdbW0MoSQRcVl5bUkRMMC9FBz4=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Tennis.Plus.1.tennis" tvg-logo="https://sbgi.net/wp-content/uploads/2022/09/tennis_channel_color_horz_wht-1.png" tvg-name="Tennis+ 1",Tennis+ 1
-https://world-proxifier.xyz/daddylive/p/QVdbW0MoM1YFRDg9RB8zNg==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" tvg-name="The Food Network",The Food Network
-https://world-proxifier.xyz/daddylive/p/QVhSRAwsKUNFGVchLDkvVVY8PUEGAxo=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Hallmark.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" tvg-name="The Hallmark Channel",The Hallmark Channel
-https://world-proxifier.xyz/daddylive/p/QVhSRA5eVEtbViJYRAtVW0laUlxEPSBMCxc6/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="The.Weather.Channel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" tvg-name="The Weather Channel",The Weather Channel
-https://world-proxifier.xyz/daddylive/p/QVhSRFFaWzNcUiJEFkBeVklTWUE9PVkOARU=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="TLC.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png" tvg-name="TLC",TLC
-https://world-proxifier.xyz/daddylive/p/QRoWRCA1SRQHAg==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="TMC.(US).-.Eastern.Feed.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png" tvg-name="TMC Channel",TMC Channel
-https://world-proxifier.xyz/daddylive/p/QR0WRAtVW0laUlxEQl0cSS88RAQMAw==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" tvg-name="TNT",TNT
-https://world-proxifier.xyz/daddylive/p/QRxBRF9IGVY8PUEGBh4=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-name="TNT Sports 1",TNT Sports 1
-https://world-proxifier.xyz/daddylive/p/QRxBRF0tKTUgIEEERF8WSS88RAME/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" tvg-name="TNT Sports 2",TNT Sports 2
-https://world-proxifier.xyz/daddylive/p/QRxBRF0tKTUgIEEFRF8WSS88RAMF/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" tvg-name="TNT Sports 3",TNT Sports 3
-https://world-proxifier.xyz/daddylive/p/QRxBRF0tKTUgIEEGRF8WSS88RAMG/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" tvg-name="TNT Sports 4",TNT Sports 4
-https://world-proxifier.xyz/daddylive/p/QRxBRF0tKTUgIEEHRF8WSS88RAMH/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Travel.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/travel-channel-us.png" tvg-name="Travel Channel",Travel Channel
-https://world-proxifier.xyz/daddylive/p/QSJWI09RSQRcVl5bUkRMMC9FBgI7/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/tru-tv-us.png" tvg-name="TruTV",TruTV
-https://world-proxifier.xyz/daddylive/p/QSIiQV5MT1IVRDg9RBsPCQ==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TSN1.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" tvg-name="TSN1",TSN1
-https://world-proxifier.xyz/daddylive/p/QUUZBFk1MFYFBAE=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TSN2.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" tvg-name="TSN2",TSN2
-https://world-proxifier.xyz/daddylive/p/QUUZBVk1MFYFBAA=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TSN3.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s90119_h15_aa.png" tvg-name="TSN3",TSN3
-https://world-proxifier.xyz/daddylive/p/QUUZBlk1MFYFBAM=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TSN4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/1280px-TSN4.svg.png" tvg-name="TSN4",TSN4
-https://world-proxifier.xyz/daddylive/p/QUUZB1k1MFYFBAI=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TSN5.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/1200px-TSN5.svg.png" tvg-name="TSN5",TSN5
-https://world-proxifier.xyz/daddylive/p/QUUZAFk1MFYFBAU=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="TUDN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png" tvg-name="TUDN",TUDN
-https://world-proxifier.xyz/daddylive/p/QUcXGVlKTQZFPThEARw=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="TV.One.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png" tvg-name="TV ONE",TV ONE
-https://world-proxifier.xyz/daddylive/p/QUZEGgQYSVBBFEE9PVkJDCk=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="TV.Land.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" tvg-name="TVLAND",TVLAND
-https://world-proxifier.xyz/daddylive/p/QUYfFAQfSS88RAMHBQ==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="UniMas(East)(Spanish).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/unimas-us.png" tvg-name="Unimas",Unimas
-https://world-proxifier.xyz/daddylive/p/Ql5eWksoSS88RAEGBg==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Universal.Kids.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png" tvg-name="Universal Kids",Universal Kids
-https://world-proxifier.xyz/daddylive/p/Ql5eI08vLURYRBteUT1MT1IVRDg9RBwJDg==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="Univision.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png" tvg-name="Univision",Univision
-https://world-proxifier.xyz/daddylive/p/Ql5eI0MoUzZaRDg9RBkOCA==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/usa-us.png" tvg-name="USA Network",USA Network
-https://world-proxifier.xyz/daddylive/p/QkUURARaLD4lJ11EPSBMCxUH/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vh1-us.png" tvg-name="VH1",VH1
-https://world-proxifier.xyz/daddylive/p/QxYERF9IGVY8PUEGBxo=/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Premier.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/premier-sports-ireland-1.png" tvg-name="Premier Sports Ireland 1",Premier Sports Ireland 1
-https://world-proxifier.xyz/daddylive/p/RSJSWkNaKlZBJSEnIT1METVTWVNbUVkMSS88RAcCBA==/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Premier.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/premier-sports-ireland-2.png" tvg-name="Premier Sports Ireland 2",Premier Sports Ireland 2
-https://world-proxifier.xyz/daddylive/p/RSJSWkNaKlZBJSEnIT1METVTWVNbUVkNSS88RAcMDA==/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="VICE.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/vice-us.png?raw=true" tvg-name="VICE TV",VICE TV
-https://world-proxifier.xyz/daddylive/p/QxkWEFlJTlY8PUEBABE=/index.m3u8
-#EXTINF:-1 group-title="USA (DADDY LIVE)" tvg-id="W(WomensTelevisionNetwork)(Pacific)(English).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/we-tv-us.png" tvg-name="WETV",WETV
-https://world-proxifier.xyz/daddylive/p/TBVBQ1lKTQZFPThEAR0I/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us" tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" tvg-name="Willow Cricket",Willow Cricket
-https://world-proxifier.xyz/daddylive/p/TFtZWTkkSQQmXlVYUjxMMC9FBgIB/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="WillowXtra.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/willow-xtra-us.png" tvg-name="Willow XTRA",Willow XTRA
-https://world-proxifier.xyz/daddylive/p/TFtZWTkkSV9ARxFEPSBMDR4C/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="WWE.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/wwe-us.png" tvg-name="WWE Network",WWE Network
-https://world-proxifier.xyz/daddylive/p/TEkQRARaLD4lJ11EPSBMCxAA/index.m3u8
-#EXTINF:-1 group-title="SPORTS (DADDY LIVE)" tvg-id="YES.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/yes-network-us.png" tvg-name="YES Network",YES Network
-https://world-proxifier.xyz/daddylive/p/ThVARARaLD4lJ11EQl0cSS88RAcBBg==/index.m3u8
-#EXTINF:-1 group-title="Australia" tvg-id="ABC.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-au.png" tvg-name="ABC",ABC
-https://world-proxifier.xyz/daddylive/p/FBAWRF9IGVY8PUEABA==/index.m3u8
-#EXTINF:-1 tvg-id="Sky.Sport.1.nz" tvg-name="Sky Sport 1 NZ" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/sky-sport-1-nz.png" group-title="SPORTS (DADDY LIVE)",Sky Sport 1 NZ
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgRAFEGVJMMC9FAAYD/index.m3u8
-#EXTINF:-1 tvg-id="Sky.Sport.2.nz" tvg-name="Sky Sport 2 NZ" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/sky-sport-2-nz.png" group-title="SPORTS (DADDY LIVE)",Sky Sport 2 NZ
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgRABEGVJMMC9FAAYM/index.m3u8
-#EXTINF:-1 tvg-id="Sky.Sport.3.nz" tvg-name="Sky Sport 3 NZ" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/sky-sport-3-nz.png" group-title="SPORTS (DADDY LIVE)",Sky Sport 3 NZ
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgRANEGVJMMC9FAAk7/index.m3u8
-#EXTINF:-1 tvg-id="Sky.Sport.4.nz" tvg-name="Sky Sport 4 NZ" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/sky-sport-4-nz.png" group-title="SPORTS (DADDY LIVE)",Sky Sport 4 NZ
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgRAJEGVJMMC9FAAkE/index.m3u8
-#EXTINF:-1 tvg-id="Sky.Sport.5.nz" tvg-name="Sky Sport 5 NZ" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/sky-sport-5-nz.png" group-title="SPORTS (DADDY LIVE)",Sky Sport 5 NZ
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgRAVEGVJMMC9FAAkF/index.m3u8
-#EXTINF:-1 tvg-id="Sky.Sport.6.nz" tvg-name="Sky Sport 6 NZ" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/sky-sport-6-nz.png" group-title="SPORTS (DADDY LIVE)",Sky Sport 6 NZ
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgRAREGVJMMC9FAAkG/index.m3u8
-#EXTINF:-1 tvg-id="Sky.Sport.7.nz" tvg-name="Sky Sport 7 NZ" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/sky-sport-7-nz.png" group-title="SPORTS (DADDY LIVE)",Sky Sport 7 NZ
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgRAdEGVJMMC9FAAkH/index.m3u8
-#EXTINF:-1 tvg-id="Sky.Sport.8.nz" tvg-name="Sky Sport 8 NZ" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/sky-sport-8-nz.png" group-title="SPORTS (DADDY LIVE)",Sky Sport 8 NZ
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgRAZEGVJMMC9FAAkA/index.m3u8
-#EXTINF:-1 tvg-id="Sky.Sport.9.nz" tvg-name="Sky Sport 9 NZ" tvg-logo="https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/logos/sky-sport-9-nz.png" group-title="SPORTS (DADDY LIVE)",Sky Sport 9 NZ
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgRAlEGVJMMC9FAAkB/index.m3u8
-#EXTINF:-1 tvg-id="SKY.Sport.Select.nz" tvg-name="Sky Sport Select NZ" tvg-logo="https://raw.githubusercontent.com/Josh9456/daddylive-m3u/refs/heads/main/Logos/Sky%20New%20Zealand%20Select.png" group-title="SPORTS (DADDY LIVE)",Sky Sport Select NZ
-https://world-proxifier.xyz/daddylive/p/QF0uRF0tKTUgREVSWU9YLFYYT0E9PVkIDhA=/index.m3u8
+#EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛3号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛3号场地
+
+#EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛4号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛4号场地
+
+#EXTINF:-1 group-title="卫视频道" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225485/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png",江西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225597/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png",河北卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225596/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225488/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-name="品质大剧" tvg-logo="https://live.fanmingming.com/tv/品质大剧.png",品质大剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226266/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225484/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225598/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="卫视频道" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="江西本地" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png",江西新闻
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="江西本地" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png",江西都市
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/10000100000000060000000000000162_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="江西本地" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png",江西经济生活
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/10000100000000060000000005219195_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="江西本地" tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.com/tv/江西影视旅游.png",江西影视旅游
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/10000100000000060000000000000029_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="其他频道" tvg-name="新华社" tvg-logo="https://live.fanmingming.com/tv/新华社.png",新华社
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
+#EXTINF:-1 group-title="其他频道" tvg-name="新华社英文" tvg-logo="https://live.fanmingming.com/tv/新华社英文.png",新华社英文
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226298/index.m3u8
+#EXTINF:-1 group-title="其他频道" tvg-name="追番必看" tvg-logo="https://live.fanmingming.com/tv/追番必看.png",追番必看
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226269/index.m3u8
+#EXTINF:-1 group-title="其他频道" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png",上海纪实人文
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="其他频道" tvg-name="湖南金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰纪实.png",湖南金鹰纪实
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="国际",BBC NEWS
+http://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 group-title="国际",CNN
+http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/88946.ts
+#EXTINF:-1 group-title="国际",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="国际",Fox News
+http://panelguys.top:8080/txd7Fd/030774/1818
+#EXTINF:-1 group-title="国际",Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="国际",RT NEWS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181651.m3u8
+#EXTINF:-1 group-title="国际",GB NEWS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400200058.m3u8
+#EXTINF:-1 group-title="国际",News Nation
+http://212.102.60.231:80/NEWS_NATION/index.m3u8
+#EXTINF:-1 group-title="国际",CBS News
+http://panelguys.top:8080/txd7Fd/030774/21259
+#EXTINF:-1 group-title="国际",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 group-title="国际",Newsmax 2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/1.m3u8
+#EXTINF:-1 group-title="国际",NHK Japan
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="国际",RTE NEWS
+http://panelguys.top:8080/txd7Fd/030774/79108
+#EXTINF:-1 group-title="国际",TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 group-title="国际",PBS HD
+http://panelguys.top:8080/txd7Fd/030774/57276
+#EXTINF:-1 group-title="国际",Cheddar News
+https://cheddar-us.samsung.wurl.tv/playlist_4300k.m3u8
+#EXTINF:-1 group-title="国际",Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
+#EXTINF:-1 group-title="国际",HollyWire
+https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
+#EXTINF:-1 group-title="国际",NEWS 12
+http://panelguys.top:8080/qcFA9B/963626/167741
+#EXTINF:-1 group-title="国际",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 group-title="国际",DW ENGLISH
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176619.m3u8
+#EXTINF:-1 group-title="国际",TRT WORLD
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400230338.m3u8
+#EXTINF:-1 group-title="国际",USA TODAY
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6625.m3u8
+#EXTINF:-1 group-title="国际",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 group-title="国际",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="国际",OAN
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181655.m3u8
+#EXTINF:-1 group-title="国际",ITV Quiz
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/154054.m3u8
+#EXTINF:-1 group-title="国际",Game Show Network
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33966.m3u8
+#EXTINF:-1 group-title="国际",E4
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153636.m3u8
+#EXTINF:-1 group-title="国际",DOVE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181554.m3u8
+#EXTINF:-1 group-title="国际",IFC
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181559.m3u8
+#EXTINF:-1 group-title="国际",STV
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153673.m3u8
+#EXTINF:-1 group-title="国际",S4C
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153866.m3u8
+#EXTINF:-1 group-title="国际",UTV
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153868.m3u8
+#EXTINF:-1 group-title="国际",PREMIER SPORTS 1
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153723.m3u8
+#EXTINF:-1 group-title="国际",PREMIER SPORTS 2
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153724.m3u8
+#EXTINF:-1 group-title="国际",SKY SPORTS TENNIS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/391270.m3u8
+#EXTINF:-1 group-title="国际",NFL RED ZONE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181403.m3u8
+#EXTINF:-1 group-title="国际",SportsGrid
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163374.m3u8
+#EXTINF:-1 group-title="国际",SPEED SPORT 1
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401572602.m3u8
+#EXTINF:-1 group-title="国际",REAL AMERICA'S VOICE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/381772.m3u8
+#EXTINF:-1 group-title="国际",DOG TV
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/13550.m3u8
+#EXTINF:-1 group-title="国际",AWE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176716.m3u8
+#EXTINF:-1 group-title="国际",LAFF
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400309672.m3u8
+#EXTINF:-1 group-title="国际",REVOLT
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176704.m3u8
+#EXTINF:-1 group-title="国际",Wild Earth
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6615.m3u8
+#EXTINF:-1 group-title="国际",DEFIANCE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33938.m3u8
+#EXTINF:-1 group-title="国际",CINE LIFE
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/42198.m3u8
+#EXTINF:-1 group-title="国际",CINEVAULT WESTERNS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77367.m3u8
+#EXTINF:-1 group-title="国际",Stories by AMC  
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",PARAMOUNT NETWORK
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176601.m3u8
+#EXTINF:-1 group-title="国际",ADULT ANIMATION
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77598.m3u8
+#EXTINF:-1 group-title="国际",SCREENPIX WESTERNS
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/28289.m3u8
+#EXTINF:-1 group-title="国际",DISNEY CHANNEL
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153841.m3u8
+#EXTINF:-1 group-title="国际",LOL NETWORK
+http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77461.m3u8
+#EXTINF:-1 group-title="国际",NBA TV
+http://panelguys.top:8080/txd7Fd/030774/22995
+#EXTINF:-1 group-title="国际",FIFA+
+https://cb2b444d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="国际",Sportsnet East
+http://panelguys.top:8080/txd7Fd/030774/41836
+#EXTINF:-1 group-title="国际",YTV East
+http://panelguys.top:8080/txd7Fd/030774/63850
+#EXTINF:-1 group-title="国际",Animal Planet
+http://panelguys.top:8080/txd7Fd/030774/57377
+#EXTINF:-1 group-title="国际",Cooking
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",Cartoon Network
+http://panelguys.top:8080/txd7Fd/030774/57380
+#EXTINF:-1 group-title="国际",CBC Charlottetown
+http://panelguys.top:8080/txd7Fd/030774/57382
+#EXTINF:-1 group-title="国际",CBC Edmonton
+http://panelguys.top:8080/txd7Fd/030774/57384
+#EXTINF:-1 group-title="国际",CBC Halifax HD
+http://panelguys.top:8080/txd7Fd/030774/57385
+#EXTINF:-1 group-title="国际",CBC Montreal
+http://panelguys.top:8080/txd7Fd/030774/57387
+#EXTINF:-1 group-title="国际",CBC TORONTO
+http://panelguys.top:8080/txd7Fd/030774/57306
+#EXTINF:-1 group-title="国际",CHARGE
+http://panelguys.top:8080/txd7Fd/030774/75653
+#EXTINF:-1 group-title="国际",CPAC
+http://panelguys.top:8080/txd7Fd/030774/57402
+#EXTINF:-1 group-title="国际",CRAVE 1 HD
+http://panelguys.top:8080/txd7Fd/030774/57309
+#EXTINF:-1 group-title="国际",CRAVE 2 HD
+http://panelguys.top:8080/txd7Fd/030774/57310
+#EXTINF:-1 group-title="国际",CRAVE 3 HD
+http://panelguys.top:8080/txd7Fd/030774/57322
+#EXTINF:-1 group-title="国际",CRAVE 4 HD
+http://panelguys.top:8080/txd7Fd/030774/57311
+#EXTINF:-1 group-title="国际",CTV Two Atlantic
+http://panelguys.top:8080/txd7Fd/030774/79547
+#EXTINF:-1 group-title="国际",CTV Comedy Channel
+http://panelguys.top:8080/txd7Fd/030774/57408
+#EXTINF:-1 group-title="国际",CTV Drama Channel
+http://panelguys.top:8080/txd7Fd/030774/57254
+#EXTINF:-1 group-title="国际",CTV Edmonton Alberta
+http://panelguys.top:8080/txd7Fd/030774/58725
+#EXTINF:-1 group-title="国际",CTV Halifax Nova Scotia
+http://panelguys.top:8080/txd7Fd/030774/57410
+#EXTINF:-1 group-title="国际",CTV Kitchener
+http://panelguys.top:8080/txd7Fd/030774/58557
+#EXTINF:-1 group-title="国际",CTV Montreal HD
+http://panelguys.top:8080/txd7Fd/030774/47234
+#EXTINF:-1 group-title="国际",CTV NEWS CHANNEL
+http://panelguys.top:8080/txd7Fd/030774/57350
+#EXTINF:-1 group-title="国际",CTV OTTAWA
+http://panelguys.top:8080/txd7Fd/030774/47237
+#EXTINF:-1 group-title="国际",CTV Regina  
+http://panelguys.top:8080/txd7Fd/030774/66381
+#EXTINF:-1 group-title="国际",CTV Toronto HD
+http://panelguys.top:8080/txd7Fd/030774/47296
+#EXTINF:-1 group-title="国际",CTV2 Vancouver
+http://panelguys.top:8080/txd7Fd/030774/57316
+#EXTINF:-1 group-title="国际",CTV2 Windsor HD
+http://panelguys.top:8080/txd7Fd/030774/77165
+#EXTINF:-1 group-title="国际",CTV Barrie Ontario
+http://panelguys.top:8080/txd7Fd/030774/57373
+#EXTINF:-1 group-title="国际",Disney Junior
+http://panelguys.top:8080/txd7Fd/030774/57349
+#EXTINF:-1 group-title="国际",Food Network
+http://panelguys.top:8080/txd7Fd/030774/57247
+#EXTINF:-1 group-title="国际",FXX
+http://panelguys.top:8080/txd7Fd/030774/57429
+#EXTINF:-1 group-title="国际",Game Show Network
+http://panelguys.top:8080/txd7Fd/030774/57430
+#EXTINF:-1 group-title="国际",Global News Kingston
+http://panelguys.top:8080/txd7Fd/030774/57432
+#EXTINF:-1 group-title="国际",Global Edmonton News
+http://panelguys.top:8080/txd7Fd/030774/58724
+#EXTINF:-1 group-title="国际",Global Halifax News
+http://panelguys.top:8080/txd7Fd/030774/57434
+#EXTINF:-1 group-title="国际",Global News Regina
+http://panelguys.top:8080/txd7Fd/030774/66384
+#EXTINF:-1 group-title="国际",Global Saskatoon
+http://panelguys.top:8080/txd7Fd/030774/66383
+#EXTINF:-1 group-title="国际",GLOBAL TORONTO
+http://panelguys.top:8080/txd7Fd/030774/57435
+#EXTINF:-1 group-title="国际",HGTV
+http://panelguys.top:8080/txd7Fd/030774/57273
+#EXTINF:-1 group-title="国际",MSNBC
+http://panelguys.top:8080/txd7Fd/030774/47332
+#EXTINF:-1 group-title="国际",National Geographic Wild
+http://panelguys.top:8080/txd7Fd/030774/57280
+#EXTINF:-1 group-title="国际",National Geographic
+http://panelguys.top:8080/txd7Fd/030774/47339
+#EXTINF:-1 group-title="国际",NFL NETWORK HD
+http://panelguys.top:8080/txd7Fd/030774/47346
+#EXTINF:-1 group-title="国际",OLN 
+http://panelguys.top:8080/txd7Fd/030774/57366
+#EXTINF:-1 group-title="国际",OWN
+http://panelguys.top:8080/txd7Fd/030774/57277
+#EXTINF:-1 group-title="国际",Showcase HD
+http://panelguys.top:8080/txd7Fd/030774/47366
+#EXTINF:-1 group-title="国际",Slice TV
+http://panelguys.top:8080/txd7Fd/030774/57274
+#EXTINF:-1 group-title="国际",Smithsonian Channel
+http://panelguys.top:8080/txd7Fd/030774/47369
+#EXTINF:-1 group-title="国际",Sportsnet 360
+http://panelguys.top:8080/txd7Fd/030774/57299
+#EXTINF:-1 group-title="国际",Sportsnet East HD
+http://panelguys.top:8080/txd7Fd/030774/57298
+#EXTINF:-1 group-title="国际",Sportsnet One
+http://panelguys.top:8080/txd7Fd/030774/47379
+#EXTINF:-1 group-title="国际",Sportsnet Ontario
+http://panelguys.top:8080/txd7Fd/030774/11649
+#EXTINF:-1 group-title="国际",Sportsnet Pacific
+http://panelguys.top:8080/txd7Fd/030774/9860
+#EXTINF:-1 group-title="国际",Sportsnet West
+http://panelguys.top:8080/txd7Fd/030774/20975
+#EXTINF:-1 group-title="国际",Sportsnet World HD
+http://panelguys.top:8080/txd7Fd/030774/75675
+#EXTINF:-1 group-title="国际",TSN 1
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/7973
+#EXTINF:-1 group-title="国际",TSN 2
+http://panelguys.top:8080/txd7Fd/030774/16129
+#EXTINF:-1 group-title="国际",TSN 3
+http://panelguys.top:8080/txd7Fd/030774/47444
+#EXTINF:-1 group-title="国际",TSN 4
+http://panelguys.top:8080/txd7Fd/030774/66783
+#EXTINF:-1 group-title="国际",TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+#EXTINF:-1 group-title="国际",SKY CINEMA ACTION
+http://panelguys.top:8080/txd7Fd/030774/35254
+#EXTINF:-1 group-title="国际",SKY CINEMA DRAMA
+http://panelguys.top:8080/txd7Fd/030774/35251
+#EXTINF:-1 group-title="国际",Sky Cinema Scifi & Horror
+http://panelguys.top:8080/txd7Fd/030774/35248
+#EXTINF:-1 group-title="国际",SKY CRIME THRILLER
+http://panelguys.top:8080/txd7Fd/030774/35252
+#EXTINF:-1 group-title="国际",SKY GREATS
+http://panelguys.top:8080/txd7Fd/030774/35249
+#EXTINF:-1 group-title="国际",Channel 5
+http://panelguys.top:8080/txd7Fd/030774/53653
+#EXTINF:-1 group-title="国际",Discovery Channel
+http://panelguys.top:8080/txd7Fd/030774/53684
+#EXTINF:-1 group-title="国际",DISCOVERY FAMILY CHANNEL
+http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",DISCOVERY LIFE
+http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+#EXTINF:-1 group-title="国际",Discovery Science
+http://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+#EXTINF:-1 group-title="国际",DISNEY XD
+http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="国际",Discovery History
+http://panelguys.top:8080/txd7Fd/030774/53694
+#EXTINF:-1 group-title="国际",Film 4
+http://panelguys.top:8080/txd7Fd/030774/53702
+#EXTINF:-1 group-title="国际",H2
+http://panelguys.top:8080/txd7Fd/030774/53692
+#EXTINF:-1 group-title="国际",ITV 3
+http://panelguys.top:8080/txd7Fd/030774/53665
+#EXTINF:-1 group-title="国际",ITV2 HD
+http://panelguys.top:8080/txd7Fd/030774/53671
+#EXTINF:-1 group-title="国际",MUTV
+http://panelguys.top:8080/txd7Fd/030774/53717
+#EXTINF:-1 group-title="国际",NICKELODEON
+http://panelguys.top:8080/txd7Fd/030774/53728
+#EXTINF:-1 group-title="国际",Sky Cinema Animation
+http://panelguys.top:8080/txd7Fd/030774/53698
+#EXTINF:-1 group-title="国际",Sky Cinema Family
+http://panelguys.top:8080/txd7Fd/030774/53699
+#EXTINF:-1 group-title="国际",Sky Cinema Premier
+http://panelguys.top:8080/txd7Fd/030774/35256
+#EXTINF:-1 group-title="国际",Sky Cinema Comedy
+http://panelguys.top:8080/txd7Fd/030774/53661
+#EXTINF:-1 group-title="国际",Sky Sports Action
+http://panelguys.top:8080/txd7Fd/030774/53705
+#EXTINF:-1 group-title="国际",Sky Sports Arena
+http://panelguys.top:8080/txd7Fd/030774/35238
+#EXTINF:-1 group-title="国际",Sky Sports F1
+http://panelguys.top:8080/txd7Fd/030774/53704
+#EXTINF:-1 group-title="国际",Sky Sports Golf
+http://panelguys.top:8080/txd7Fd/030774/35240
+#EXTINF:-1 group-title="国际",Sky Sports Main Event
+http://panelguys.top:8080/txd7Fd/030774/35243
+#EXTINF:-1 group-title="国际",Sky Sports Mix
+http://panelguys.top:8080/txd7Fd/030774/53706
+#EXTINF:-1 group-title="国际",Sky Sports News
+http://panelguys.top:8080/txd7Fd/030774/35241
+#EXTINF:-1 group-title="国际",Willow Cricket
+http://panelguys.top:8080/txd7Fd/030774/41979
+#EXTINF:-1 group-title="国际",World Poker
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF:-1 group-title="国际",Sky Sports Cricket
+http://panelguys.top:8080/txd7Fd/030774/45940
+#EXTINF:-1 group-title="国际",Eurosport
+http://45.159.74.22/Eurosport/playlist.m3u8
+#EXTINF:-1 group-title="国际",Lifetime Movies
+http://panelguys.top:8080/txd7Fd/030774/20863
+#EXTINF:-1 group-title="国际",NBC Sports Network
+http://panelguys.top:8080/txd7Fd/030774/46725
+#EXTINF:-1 group-title="国际",WWE NETWORK
+http://panelguys.top:8080/txd7Fd/030774/11645
+#EXTINF:-1 group-title="国际",Bally Sports Southwest
+http://panelguys.top:8080/txd7Fd/030774/21843
+#EXTINF:-1 group-title="国际",FanDuel Sports West
+http://panelguys.top:8080/txd7Fd/030774/20932
+#EXTINF:-1 group-title="国际",PT Eleven Sports 1
+http://panelguys.top:8080/txd7Fd/030774/35264
+#EXTINF:-1 group-title="国际",ESPN NEWS
+http://panelguys.top:8080/txd7Fd/030774/17707
+#EXTINF:-1 group-title="国际",FanDuel Sports Ohio
+http://panelguys.top:8080/txd7Fd/030774/17752
+#EXTINF:-1 group-title="国际",NBC Sports California
+http://panelguys.top:8080/txd7Fd/030774/20940
+#EXTINF:-1 group-title="国际",NBC Sports Chicago
+http://panelguys.top:8080/txd7Fd/030774/20941
+#EXTINF:-1 group-title="国际",NBC Sports Philly
+http://panelguys.top:8080/txd7Fd/030774/20943
+#EXTINF:-1 group-title="国际",NBC Sports Washington
+http://panelguys.top:8080/txd7Fd/030774/20944
+#EXTINF:-1 group-title="国际",ESPN SEC Network
+http://panelguys.top:8080/txd7Fd/030774/17608
+#EXTINF:-1 group-title="国际",YES Network
+http://panelguys.top:8080/txd7Fd/030774/57972
+#EXTINF:-1 group-title="国际",Court TV
+http://panelguys.top:8080/txd7Fd/030774/21092
+#EXTINF:-1 group-title="国际",UniMas
+http://panelguys.top:8080/txd7Fd/030774/57969
+#EXTINF:-1 group-title="国际",Univision
+http://panelguys.top:8080/txd7Fd/030774/15336
+#EXTINF:-1 group-title="国际",Spectrum SportsNet
+http://panelguys.top:8080/txd7Fd/030774/20946
+#EXTINF:-1 group-title="国际",StarMax
+http://panelguys.top:8080/txd7Fd/030774/13381
+#EXTINF:-1 group-title="国际",ABC
+http://panelguys.top:8080/txd7Fd/030774/22990
+#EXTINF:-1 group-title="国际",AMC
+http://panelguys.top:8080/txd7Fd/030774/18925
+#EXTINF:-1 group-title="国际",Bet Gospel
+http://panelguys.top:8080/txd7Fd/030774/66080
+#EXTINF:-1 group-title="国际",BET
+http://panelguys.top:8080/txd7Fd/030774/13702
+#EXTINF:-1 group-title="国际",Bravo
+http://panelguys.top:8080/txd7Fd/030774/20859
+#EXTINF:-1 group-title="国际",BUZZR
+http://panelguys.top:8080/txd7Fd/030774/21896
+#EXTINF:-1 group-title="国际",Cinemax
+http://panelguys.top:8080/txd7Fd/030774/13380
+#EXTINF:-1 group-title="国际",CMT
+http://panelguys.top:8080/txd7Fd/030774/46706
+#EXTINF:-1 group-title="国际",CNBC
+http://panelguys.top:8080/txd7Fd/030774/9815
+#EXTINF:-1 group-title="国际",Comet
+http://panelguys.top:8080/txd7Fd/030774/66244
+#EXTINF:-1 group-title="国际",Decades
+http://panelguys.top:8080/txd7Fd/030774/20189
+#EXTINF:-1 group-title="国际",Discovery Velocity
+http://panelguys.top:8080/txd7Fd/030774/46212
+#EXTINF:-1 group-title="国际",Magnolia Network
+http://panelguys.top:8080/txd7Fd/030774/10503
+#EXTINF:-1 group-title="国际",DOGTV
+http://panelguys.top:8080/txd7Fd/030774/53539
+#EXTINF:-1 group-title="国际",EPIX (East)
+http://panelguys.top:8080/txd7Fd/030774/13214
+#EXTINF:-1 group-title="国际",Epix Drive IN
+http://panelguys.top:8080/txd7Fd/030774/14193
+#EXTINF:-1 group-title="国际",Epix Hits
+http://panelguys.top:8080/txd7Fd/030774/12744
+#EXTINF:-1 group-title="国际",EPIX2
+http://panelguys.top:8080/txd7Fd/030774/12730
+#EXTINF:-1 group-title="国际",ESPN 1
+http://panelguys.top:8080/txd7Fd/030774/14197
+#EXTINF:-1 group-title="国际",ESPN 2
+http://panelguys.top:8080/txd7Fd/030774/2210
+#EXTINF:-1 group-title="国际",Fox Business Network
+http://panelguys.top:8080/txd7Fd/030774/17639
+#EXTINF:-1 group-title="国际",FanDuel Sports South
+http://panelguys.top:8080/txd7Fd/030774/20922
+#EXTINF:-1 group-title="国际",FX East
+http://panelguys.top:8080/txd7Fd/030774/46690
+#EXTINF:-1 group-title="国际",FXM
+http://panelguys.top:8080/txd7Fd/030774/10260
+#EXTINF:-1 group-title="国际",FYI
+http://fl1.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 group-title="国际",DIY
+http://fl1.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 group-title="国际",Grit TV
+http://panelguys.top:8080/txd7Fd/030774/20861
+#EXTINF:-1 group-title="国际",HGTV
+http://panelguys.top:8080/txd7Fd/030774/46717
+#EXTINF:-1 group-title="国际",History Channel
+http://panelguys.top:8080/txd7Fd/030774/46724
+#EXTINF:-1 group-title="国际",INSP
+http://panelguys.top:8080/txd7Fd/030774/16262
+#EXTINF:-1 group-title="国际",ION
+http://panelguys.top:8080/txd7Fd/030774/9297
+#EXTINF:-1 group-title="国际",Laff
+http://panelguys.top:8080/txd7Fd/030774/17777
+#EXTINF:-1 group-title="国际",Lifetime
+http://panelguys.top:8080/txd7Fd/030774/46714
+#EXTINF:-1 group-title="国际",More Max
+http://panelguys.top:8080/txd7Fd/030774/17776
+#EXTINF:-1 group-title="国际",MSG Plus
+http://panelguys.top:8080/txd7Fd/030774/9276
+#EXTINF:-1 group-title="国际",Nat Geo Wild East
+http://panelguys.top:8080/txd7Fd/030774/11664
+#EXTINF:-1 group-title="国际",One America News
+http://panelguys.top:8080/txd7Fd/030774/21752
+#EXTINF:-1 group-title="国际",OUTSIDE TV
+http://panelguys.top:8080/txd7Fd/030774/20865
+#EXTINF:-1 group-title="国际",OWN
+http://panelguys.top:8080/txd7Fd/030774/46698
+#EXTINF:-1 group-title="国际",Oxygen 
+http://panelguys.top:8080/txd7Fd/030774/46695
+#EXTINF:-1 group-title="国际",Paramount Network
+http://panelguys.top:8080/txd7Fd/030774/46694
+#EXTINF:-1 group-title="国际",PixL
+http://panelguys.top:8080/txd7Fd/030774/21648
+#EXTINF:-1 group-title="国际",GAC Living
+http://panelguys.top:8080/txd7Fd/030774/75654
+#EXTINF:-1 group-title="国际",TBN
+http://panelguys.top:8080/txd7Fd/030774/21895
+#EXTINF:-1 group-title="国际",TLC
+http://panelguys.top:8080/txd7Fd/030774/47703
+#EXTINF:-1 group-title="国际",TNT West
+http://panelguys.top:8080/txd7Fd/030774/46688
+#EXTINF:-1 group-title="国际",TNT East
+http://panelguys.top:8080/txd7Fd/030774/10455
+#EXTINF:-1 group-title="国际",TRUTV East
+http://panelguys.top:8080/txd7Fd/030774/10224
+#EXTINF:-1 group-title="国际",TV Land
+http://panelguys.top:8080/txd7Fd/030774/46696
+#EXTINF:-1 group-title="国际",VICELAND
+http://panelguys.top:8080/txd7Fd/030774/46697
+#EXTINF:-1 group-title="国际",MLB Network
+http://143.244.60.30/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",ESPN NEWS
+http://143.244.60.30/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title="国际",ESPN U
+http://143.244.60.30/ESPN_U/index.m3u8
+#EXTINF:-1 group-title="国际",MTV
+http://fl1.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="国际",MTV Live
+http://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="国际",Golf Channel
+https://fl3.moveonjoy.com/GOLF/index.m3u8
+#EXTINF:-1 group-title="国际",Travel Channel
+http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
+#EXTINF:-1 group-title="国际",TVOne
+https://fl3.moveonjoy.com/TV_ONE/index.m3u8
+#EXTINF:-1 group-title="国际",WeTV
+http://fl1.moveonjoy.com/WE_TV/index.m3u8
+#EXTINF:-1 group-title="国际",WGN
+https://fl3.moveonjoy.com/WGN/index.m3u8
+#EXTINF:-1 group-title="国际",W NETWORK
+https://fl3.moveonjoy.com/W_NETWORK/index.m3u8
+#EXTINF:-1 group-title="国际",Vice
+https://fl3.moveonjoy.com/VICELAND/index.m3u8
+#EXTINF:-1 group-title="国际",Tennis Channel
+http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="国际",SYFY
+https://fl3.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 group-title="国际",TBS
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 group-title="国际",TCM
+http://fl1.moveonjoy.com/TCM/index.m3u8
+#EXTINF:-1 group-title="国际",Fashion 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="国际",Hallmark Channel
+http://panelguys.top:8080/txd7Fd/030774/46719
+#EXTINF:-1 group-title="国际",Hallmark Drama
+http://panelguys.top:8080/txd7Fd/030774/9307
+#EXTINF:-1 group-title="国际",Hallmark Movies & Mysteries
+http://panelguys.top:8080/txd7Fd/030774/10289
+#EXTINF:-1 group-title="国际",HBO HD
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/7968
+#EXTINF:-1 group-title="国际",HBO Comedy
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17974
+#EXTINF:-1 group-title="国际",HBO Signature
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17976
+#EXTINF:-1 group-title="国际",HBO West
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17977
+#EXTINF:-1 group-title="国际",HBO ZONE
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17978
+#EXTINF:-1 group-title="国际",HBO East HD
+http://panelguys.top:8080/txd7Fd/030774/46713
+#EXTINF:-1 group-title="国际",HBO 2
+http://panelguys.top:8080/txd7Fd/030774/57438
+#EXTINF:-1 group-title="国际",AMC Thrillers
+http://panelguys.top:8080/txd7Fd/030774/66243
+#EXTINF:-1 group-title="国际",Showtime East
+http://panelguys.top:8080/txd7Fd/030774/46214
+#EXTINF:-1 group-title="国际",Showtime 2
+http://panelguys.top:8080/txd7Fd/030774/13219
+#EXTINF:-1 group-title="国际",Showtime Family Zone
+http://panelguys.top:8080/txd7Fd/030774/13481
+#EXTINF:-1 group-title="国际",Showtime Women
+http://panelguys.top:8080/txd7Fd/030774/17778
+#EXTINF:-1 group-title="国际",Showtime Showcase  
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17930
+#EXTINF:-1 group-title="国际",Showtime Extreme 
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17987
+#EXTINF:-1 group-title="国际",Showtime Next  
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17989
+#EXTINF:-1 group-title="国际",Showtime West  
+http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17990
+#EXTINF:-1 group-title="国际",Starz Encore Westerns
+http://panelguys.top:8080/txd7Fd/030774/16263
+#EXTINF:-1 group-title="国际",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Action
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Comedy
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Drama
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Family
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Reality
+https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Romance
+https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
+#EXTINF:-1 tvg-name="desire" group-title="其他频道",disire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="brazzers" group-title="其他频道",brazzers
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="dorcel" group-title="其他频道",dorcel
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="eroxxx" group-title="其他频道",eroxxx
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="extasy" group-title="其他频道",extasy
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="erox" group-title="其他频道",erox
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="live" group-title="其他频道",live
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",Leo HD
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",Reality Kings HD
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="JennyLive.us" tvg-logo="https://i.imgur.com/3vsBZI3.png" group-title="其他频道",Miami TV Jenny Live (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/MpQtdTb.png" group-title="其他频道",Miami TV Mexico (1080p)
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us" tvg-logo="https://i.imgur.com/B3DMUM9.png" group-title="其他频道",Playboy TV Latin America (1080p)
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-logo="https://i.imgur.com/avtSqUu.png" group-title="其他频道",Visit-X TV (720p)
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",东热01
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",东热02
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",东热03
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",东热04
+https://video1.rhsj520.com/nyrm3/2011225/DR/n0001/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",一本00
+https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",二本01
+https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",三本02
+https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",一本03
+http://live.redtraffic.xyz:80/bigass.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",二本04
+http://live.redtraffic.xyz:80/blowjob.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",悲剧女主播
+https://videomy.yongaomy.com:8091/20191223/TOz9KzyG/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",春埼芽衣1
+https://fc.maa1809.com/m/omsopjnoon/omsopjnoon.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",春埼芽衣2
+https://fc.maa1809.com/d/onqiitnimq/onqiitnimq.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",春埼芽衣3
+https://fc.maa1809.com/m/iiojdlpnjp/iiojdlpnjp.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",大觉醒伊贺
+https://videomy.yongaomy.com:8091/20200126/SSNI-681/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",风俗女郎都咲乃
+https://videomy.yongaomy.com:8091/20191223/jYalymoY/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",汗水少女
+https://videomy.yongaomy.com:8091/20191219/WJQJUXjc/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",河原枫
+https://fc.maa1809.com/f/qcreaitlwz/qcreaitlwz.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",嘿嘿1768神田
+https://fc.maa1808.com/g/mllotqnpol/mllotqnpol.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",嘿嘿立花琉莉
+https://fc.maa1808.com/c/rkxhwovsgf/rkxhwovsgf.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",花音1
+https://fc.maa1809.com/e/pjnvmkrplq/pjnvmkrplq.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",姫川
+https://videomy.yongaomy.com:8091/20200102/IeVDOH6i/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",姬野栞
+https://fc.maa1809.com/g/rnhlghoqyo/rnhlghoqyo.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",吉岗
+https://videomy.yongaomy.com:8091/20191223/4ZcJ3aPo/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",加勒比001THE4名
+https://fc.maa1808.com/m/ajtnayynwz/ajtnayynwz.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",加勒比206西川
+https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",加勒比350丘笑
+https://fc.maa1808.com/f/ocyxhukqvo/ocyxhukqvo.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",加勒比612希笑
+https://fc.maa1808.com/n/kqnjvnpjkm/kqnjvnpjkm.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",教育
+https://videomy.yongaomy.com:8091/20191226/OuJg40gL/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",姐姐的诱惑
+https://videomy.yongaomy.com:8091/20191226/ezCT3OZC/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",九重环奈1
+https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-493/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",九重环奈2
+https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-391/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",九重环奈3
+https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/mide-422/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",九重环奈4
+https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-503/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",九重环奈5
+https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/mide-525/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",九重环奈6
+https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-513/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",九重环奈7
+https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-535/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",笠木一香
+https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",疗愈大叔
+https://videomy.yongaomy.com:8091/20191227/jPKXM7bL/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",妹妹
+https://videomy.yongaomy.com:8091/20200126/SW-587/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",内衣模特-新名
+https://videomy.yongaomy.com:8091/20191223/1HZ8kCxt/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",帕科马马-希笑
+https://fc.maa1808.com/m/rwrhezjunn/rwrhezjunn.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",情人节希岛
+https://videomy.yongaomy.com/xiezhen/LD-011/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",晴佳
+https://fc.maa1809.com/b/inmkopifvj/inmkopifvj.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",去学校
+https://videomy.yongaomy.com:8091/20200126/IPZ-949/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",全神贯注
+https://videomy.yongaomy.com:8091/20200126/IPX-428/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",三原穗花加藤绫野
+https://fc.maa1809.com/h/qjotnrtkkh/qjotnrtkkh.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",侍奉女仆
+https://videomy.yongaomy.com:8091/20200126/MIDE-066/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",松永纱奈1
+https://fc.maa1809.com/m/roqelpimmo/roqelpimmo.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",松永纱奈2
+https://fc.maa1809.com/e/ohtlknkomr/ohtlknkomr.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",松永纱奈3
+https://fc.maa1809.com/h/soknsufnkn/soknsufnkn.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",松永纱奈4
+https://fc.maa1809.com/f/knmpkoqmjg/knmpkoqmjg.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",松永纱奈5
+https://fc.maa1809.com/d/kvrynihixm/kvrynihixm.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",松永纱奈6
+https://fc.maa1809.com/c/fkkrigoeyk/fkkrigoeyk.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",体液浓密-新名
+https://videomy.yongaomy.com:8091/20200104/wtygLh5i/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天海翼
+https://videomy.yongaomy.com:8091/20200111/IPZ-615/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌1
+https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-210/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌2
+https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-230/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌3
+https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-249/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌4
+https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-270/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌5
+https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-929/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌6
+https://video1.rhsj520.com:8091/nyrm3/snis/3/ssni-380/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌7
+https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-331/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌8
+https://video1.rhsj520.com:8091/nyrm3/snis/1/ssni-358/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌9
+https://videomy.yongaomy.com:8091/20200110/SNIS-270/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌10
+https://videomy.yongaomy.com:8091/20200110/SNIS-463/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌11
+https://videomy.yongaomy.com:8091/20200110/SNIS-311/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌12
+https://videomy.yongaomy.com:8091/20200112/SNIS-440/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",西川1
+https://videomy.yongaomy.com:8091/20200112/MIDE-124/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",相部屋
+https://videomy.yongaomy.com:8091/20200126/SSNI-674/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",香皂小姐姐
+https://videomy.yongaomy.com:8091/20191223/R6Tq7Ldb/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",筱原友香1
+https://fc.maa1809.com/e/ktpmorpkrk/ktpmorpkrk.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",筱原友香2
+https://fc.maa1809.com/d/jnqjlprmom/jnqjlprmom.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",咲咲原凛星奈爱
+https://fc.maa1809.com/d/ojpmkokpmm/ojpmkokpmm.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",绪方艾丽娜
+https://videomy.yongaomy.com:8091/20200126/CHN-167/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",伊藤优希
+https://fc.maa1809.com/d/hmjfiplneo/hmjfiplneo.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",音羽
+https://fc.maa1809.com/c/nokhxqnqpj/nokhxqnqpj.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",银河迹美
+https://videomy.yongaomy.com:8091/20200126/MDTM-357/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",永濑唯
+https://fc.maa1809.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",诱惑的姐姐1
+https://videomy.yongaomy.com:8091/20200112/MIDE-118/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",诱惑的姐姐2
+https://videomy.yongaomy.com:8091/20200111/MIDE-051/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",欲求反对1
+https://videomy.yongaomy.com:8091/20200126/MEYD-564/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",欲求反对2
+https://videomy.yongaomy.com:8091/20200126/MEYD-248/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",欲求反对3
+https://videomy.yongaomy.com:8091/20200103/ocnUX7Tt/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",元气姐姐
+https://videomy.yongaomy.com:8091/20200126/IPX-434/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",职业OL
+https://videomy.yongaomy.com:8091/20191222/WGaysfrW/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",制服美少女2
+https://videomy.yongaomy.com:8091/20200104/ssClhQbc/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",奏美沙
+https://fc.maa1809.com/e/chifuosxst/chifuosxst.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",奏音花音
+https://videomy.yongaomy.com/20210907/Ekcv3tYC/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",AMBI-112奏音花音
+https://videomy.yongaomy.com/20211023/MtGqJmJr/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",APKH-123奏音花音
+https://videomy.yongaomy.com/20210825/d1JxSvZO/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",BLK-458奏音花音
+https://videomy.yongaomy.com/20211028/aA6JBM10/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",blk-547藤森里穂
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/75b14a5f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",blk-552怜岚
+https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/0430469f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib002姬川
+https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib004西川
+https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib146西川
+https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib182西川
+https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib239西川
+https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib288西川
+https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib311西川
+https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib337西川
+https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib339姬川
+https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib363西川
+https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib375姬川
+https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib375姬川
+https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib420丘笑
+https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib431北川
+https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib433姬川
+https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib449神田
+https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib457北川
+https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib474立花琉莉
+https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib477立花琉莉
+https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib478北川
+https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib495神田
+https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib531立花琉莉
+https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib533丘笑
+https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib541神田
+https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib563爱莉
+https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib563七濑
+https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib589立花琉莉
+https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib639神田
+https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib665姬川
+https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib665姬川
+https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib674杏奈
+https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib675神田
+https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib710神田
+https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib717杏奈
+https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib744立花琉莉
+https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib758美笑爱
+https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",cawd-092皆川优奈
+https://siwazywcdn2.com:5278/zhongwenzimu/5JDoELrc/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo0705杏奈
+https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1199希笑
+https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1243水谷
+https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1262西川
+https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1275水谷
+https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1395姬川
+https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1478丘笑
+https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1544姬川
+https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1570神田
+https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1590神田
+https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1601北川
+https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1638姬川
+https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1691神田
+https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1722杏奈
+https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1786杏奈
+https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",KNAM-005奏音花音
+https://videomy.yongaomy.com/20211106/5KZCzleX/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo273水谷
+https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo311水谷
+https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo350西川
+https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo366水谷
+https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo419西川
+https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo450西川
+https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo488姬川
+https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo518姬川
+https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo559北川
+https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo597西川
+https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo613七濑
+https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo618水谷
+https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo764杏奈
+https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
+#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo793杏奈
+https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Anal (720p)
+https://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Asian (720p)
+https://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Big Ass (720p)
+https://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Big Dick (720p)
+https://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Big Tits (720p)
+https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Blonde (720p)
+https://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Blowjob (720p)
+https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Brunette (720p)
+https://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Compilation (720p)
+https://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Cuckold (720p)
+https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Fetish (720p)
+https://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Gangbang (720p)
+https://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Hardcore (720p)
+https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Interracial (720p)
+https://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Latina (720p)
+https://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Lesbian (720p)
+https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Live Cams (720p)
+https://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net MILF (720p)
+https://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Pornstar (720p)
+https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net POV (720p)
+https://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Rough (720p)
+https://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Russian (720p)
+https://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Teen (720p)
+https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Threesome (720p)
+https://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Woman (720p)
+https://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 tvg-id="Babestation24.ch" tvg-logo="https://i.imgur.com/DNJP1gi.png" group-title="其他频道",Babestation24 (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-id="BlueHustler.nl" tvg-logo="https://i.imgur.com/G1YaX0Q.png" group-title="其他频道",Blue Hustler (720p)
+http://193.33.240.8:8080/hustler_hd/index.m3u8
+#EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="其他频道",Brazzers TV Europe (720p)
+https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="DorcelTV.nl" tvg-logo="https://i.imgur.com/RkzyjEd.png" group-title="其他频道",Dorcel TV (720p)
+https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EroXHD.nl" tvg-logo="https://i.imgur.com/1EOQFqE.png" group-title="其他频道",EroX HD (720p)
+https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EroXXXHD.nl" tvg-logo="https://i.imgur.com/ZNBLK41.png" group-title="其他频道",EroXXX HD (720p)
+https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HustlerHD.nl" tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="其他频道",Hustler HD (720p)
+https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="MyCamTVAnal.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="其他频道",MyCamTV Anal (720p)
+https://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 tvg-id="MyCamTVArab.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="其他频道",MyCamTV Arab (720p)
+http://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 tvg-id="MyCamTVAsian.cy" tvg-logo="https://i.imgur.com/FBSodo6.png" group-title="其他频道",MyCamTV Asian (720p)
+https://live.mycamtv.com/asian.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBigAss.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="其他频道",MyCamTV Big Ass (720p)
+https://live.mycamtv.com/defstream.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBigTits.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="其他频道",MyCamTV Big Tits (720p)
+https://live.mycamtv.com/bigtits.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBlonde.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="其他频道",MyCamTV Blonde (720p)
+https://live.mycamtv.com/blonde.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBlowjob.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="其他频道",MyCamTV Blowjob (720p)
+http://live.mycamtv.com/blowjob.m3u8
+#EXTINF:-1 tvg-id="MyCamTVBrunette.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="其他频道",MyCamTV Brunette (720p)
+https://live.mycamtv.com/brunette.m3u8
+#EXTINF:-1 tvg-id="MyCamTVLatina.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="其他频道",MyCamTV Latina (720p)
+https://live.mycamtv.com/latina.m3u8
+#EXTINF:-1 tvg-id="MyCamTVMedium.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="其他频道",MyCamTV Medium (720p)
+http://live.mycamtv.com/medium.m3u8
+#EXTINF:-1 tvg-id="MyCamTVMILF.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="其他频道",MyCamTV MILF (720p)
+http://live.mycamtv.com/milf.m3u8
+#EXTINF:-1 tvg-id="MyCamTVSkinny.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="其他频道",MyCamTV Skinny (720p)
+https://live.mycamtv.com/arab.m3u8
+#EXTINF:-1 tvg-id="MyCamTVSquirt.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="其他频道",MyCamTV Squirt (720p)
+https://live.mycamtv.com/squirt.m3u8
+#EXTINF:-1 tvg-id="MyCamTVTeen.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="其他频道",MyCamTV Teen (720p)
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:-1 tvg-id="MyCamTVWhite.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="其他频道",MyCamTV White (720p)
+https://live.mycamtv.com/white.m3u8
+#EXTINF:-1 tvg-id="MyCamTVYoung.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="其他频道",MyCamTV Young (720p)
+http://live.mycamtv.com/young.m3u8
+#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="其他频道",O-la-la! (576p)
