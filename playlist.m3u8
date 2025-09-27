@@ -1,1086 +1,141 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV3
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV7
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225624/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV8
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225631/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV9
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV10
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV11
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV12
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV14
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225639/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV15
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png",CCTV16
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226230/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰香港.png",凤凰香港
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png",凤凰中文
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png",凤凰资讯
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
-#EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛1号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛1号场地
-http://play.cbalive.weibisai.com/live/3989485418196061_AiHD.m3u8?txSecret=2fc3d8820a53b64f9b0a039258211584&txTime=68B56090
-#EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛2号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛2号场地
-
-#EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛3号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛3号场地
-
-#EXTINF:-1 group-title="羽毛球频道" tvg-name="世锦赛4号场地" tvg-logo="https://live.fanmingming.com/tv/BWF.png",世锦赛4号场地
-
-#EXTINF:-1 group-title="卫视频道" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225485/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png",江西卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225705/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225597/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png",河北卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225596/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225488/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225696/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-name="品质大剧" tvg-logo="https://live.fanmingming.com/tv/品质大剧.png",品质大剧
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226266/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225484/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225744/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225598/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西本地" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png",江西新闻
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西本地" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png",江西都市
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/10000100000000060000000000000162_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西本地" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png",江西经济生活
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/10000100000000060000000005219195_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="江西本地" tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.com/tv/江西影视旅游.png",江西影视旅游
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/10000100000000060000000000000029_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="其他频道" tvg-name="新华社" tvg-logo="https://live.fanmingming.com/tv/新华社.png",新华社
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226297/index.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-name="新华社英文" tvg-logo="https://live.fanmingming.com/tv/新华社英文.png",新华社英文
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226298/index.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-name="追番必看" tvg-logo="https://live.fanmingming.com/tv/追番必看.png",追番必看
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226269/index.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/上海纪实人文.png",上海纪实人文
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 group-title="其他频道" tvg-name="湖南金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰纪实.png",湖南金鹰纪实
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="国际",BBC NEWS
-http://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 group-title="国际",CNN
-http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/88946.ts
-#EXTINF:-1 group-title="国际",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",Fox News
-http://panelguys.top:8080/txd7Fd/030774/1818
-#EXTINF:-1 group-title="国际",Al Jazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="国际",RT NEWS
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181651.m3u8
-#EXTINF:-1 group-title="国际",GB NEWS
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400200058.m3u8
-#EXTINF:-1 group-title="国际",News Nation
-http://212.102.60.231:80/NEWS_NATION/index.m3u8
-#EXTINF:-1 group-title="国际",CBS News
-http://panelguys.top:8080/txd7Fd/030774/21259
-#EXTINF:-1 group-title="国际",Global News
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-#EXTINF:-1 group-title="国际",Newsmax 2
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/1.m3u8
-#EXTINF:-1 group-title="国际",NHK Japan
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="国际",RTE NEWS
-http://panelguys.top:8080/txd7Fd/030774/79108
-#EXTINF:-1 group-title="国际",TBS Seoul
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际",PBS HD
-http://panelguys.top:8080/txd7Fd/030774/57276
-#EXTINF:-1 group-title="国际",Cheddar News
-https://cheddar-us.samsung.wurl.tv/playlist_4300k.m3u8
-#EXTINF:-1 group-title="国际",Newsy
-https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
-#EXTINF:-1 group-title="国际",HollyWire
-https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
-#EXTINF:-1 group-title="国际",NEWS 12
-http://panelguys.top:8080/qcFA9B/963626/167741
-#EXTINF:-1 group-title="国际",Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="国际",DW ENGLISH
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176619.m3u8
-#EXTINF:-1 group-title="国际",TRT WORLD
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400230338.m3u8
-#EXTINF:-1 group-title="国际",USA TODAY
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6625.m3u8
-#EXTINF:-1 group-title="国际",Taiwan Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="国际",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际",OAN
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181655.m3u8
-#EXTINF:-1 group-title="国际",ITV Quiz
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/154054.m3u8
-#EXTINF:-1 group-title="国际",Game Show Network
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33966.m3u8
-#EXTINF:-1 group-title="国际",E4
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153636.m3u8
-#EXTINF:-1 group-title="国际",DOVE
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181554.m3u8
-#EXTINF:-1 group-title="国际",IFC
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181559.m3u8
-#EXTINF:-1 group-title="国际",STV
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153673.m3u8
-#EXTINF:-1 group-title="国际",S4C
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153866.m3u8
-#EXTINF:-1 group-title="国际",UTV
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153868.m3u8
-#EXTINF:-1 group-title="国际",PREMIER SPORTS 1
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153723.m3u8
-#EXTINF:-1 group-title="国际",PREMIER SPORTS 2
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153724.m3u8
-#EXTINF:-1 group-title="国际",SKY SPORTS TENNIS
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/391270.m3u8
-#EXTINF:-1 group-title="国际",NFL RED ZONE
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181403.m3u8
-#EXTINF:-1 group-title="国际",SportsGrid
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163374.m3u8
-#EXTINF:-1 group-title="国际",SPEED SPORT 1
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401572602.m3u8
-#EXTINF:-1 group-title="国际",REAL AMERICA'S VOICE
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/381772.m3u8
-#EXTINF:-1 group-title="国际",DOG TV
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/13550.m3u8
-#EXTINF:-1 group-title="国际",AWE
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176716.m3u8
-#EXTINF:-1 group-title="国际",LAFF
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400309672.m3u8
-#EXTINF:-1 group-title="国际",REVOLT
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176704.m3u8
-#EXTINF:-1 group-title="国际",Wild Earth
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6615.m3u8
-#EXTINF:-1 group-title="国际",DEFIANCE
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33938.m3u8
-#EXTINF:-1 group-title="国际",CINE LIFE
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/42198.m3u8
-#EXTINF:-1 group-title="国际",CINEVAULT WESTERNS
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77367.m3u8
-#EXTINF:-1 group-title="国际",Stories by AMC  
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",PARAMOUNT NETWORK
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176601.m3u8
-#EXTINF:-1 group-title="国际",ADULT ANIMATION
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77598.m3u8
-#EXTINF:-1 group-title="国际",SCREENPIX WESTERNS
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/28289.m3u8
-#EXTINF:-1 group-title="国际",DISNEY CHANNEL
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153841.m3u8
-#EXTINF:-1 group-title="国际",LOL NETWORK
-http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77461.m3u8
-#EXTINF:-1 group-title="国际",NBA TV
-http://panelguys.top:8080/txd7Fd/030774/22995
-#EXTINF:-1 group-title="国际",FIFA+
-https://cb2b444d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="国际",Sportsnet East
-http://panelguys.top:8080/txd7Fd/030774/41836
-#EXTINF:-1 group-title="国际",YTV East
-http://panelguys.top:8080/txd7Fd/030774/63850
-#EXTINF:-1 group-title="国际",Animal Planet
-http://panelguys.top:8080/txd7Fd/030774/57377
-#EXTINF:-1 group-title="国际",Cooking
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="国际",Cartoon Network
-http://panelguys.top:8080/txd7Fd/030774/57380
-#EXTINF:-1 group-title="国际",CBC Charlottetown
-http://panelguys.top:8080/txd7Fd/030774/57382
-#EXTINF:-1 group-title="国际",CBC Edmonton
-http://panelguys.top:8080/txd7Fd/030774/57384
-#EXTINF:-1 group-title="国际",CBC Halifax HD
-http://panelguys.top:8080/txd7Fd/030774/57385
-#EXTINF:-1 group-title="国际",CBC Montreal
-http://panelguys.top:8080/txd7Fd/030774/57387
-#EXTINF:-1 group-title="国际",CBC TORONTO
-http://panelguys.top:8080/txd7Fd/030774/57306
-#EXTINF:-1 group-title="国际",CHARGE
-http://panelguys.top:8080/txd7Fd/030774/75653
-#EXTINF:-1 group-title="国际",CPAC
-http://panelguys.top:8080/txd7Fd/030774/57402
-#EXTINF:-1 group-title="国际",CRAVE 1 HD
-http://panelguys.top:8080/txd7Fd/030774/57309
-#EXTINF:-1 group-title="国际",CRAVE 2 HD
-http://panelguys.top:8080/txd7Fd/030774/57310
-#EXTINF:-1 group-title="国际",CRAVE 3 HD
-http://panelguys.top:8080/txd7Fd/030774/57322
-#EXTINF:-1 group-title="国际",CRAVE 4 HD
-http://panelguys.top:8080/txd7Fd/030774/57311
-#EXTINF:-1 group-title="国际",CTV Two Atlantic
-http://panelguys.top:8080/txd7Fd/030774/79547
-#EXTINF:-1 group-title="国际",CTV Comedy Channel
-http://panelguys.top:8080/txd7Fd/030774/57408
-#EXTINF:-1 group-title="国际",CTV Drama Channel
-http://panelguys.top:8080/txd7Fd/030774/57254
-#EXTINF:-1 group-title="国际",CTV Edmonton Alberta
-http://panelguys.top:8080/txd7Fd/030774/58725
-#EXTINF:-1 group-title="国际",CTV Halifax Nova Scotia
-http://panelguys.top:8080/txd7Fd/030774/57410
-#EXTINF:-1 group-title="国际",CTV Kitchener
-http://panelguys.top:8080/txd7Fd/030774/58557
-#EXTINF:-1 group-title="国际",CTV Montreal HD
-http://panelguys.top:8080/txd7Fd/030774/47234
-#EXTINF:-1 group-title="国际",CTV NEWS CHANNEL
-http://panelguys.top:8080/txd7Fd/030774/57350
-#EXTINF:-1 group-title="国际",CTV OTTAWA
-http://panelguys.top:8080/txd7Fd/030774/47237
-#EXTINF:-1 group-title="国际",CTV Regina  
-http://panelguys.top:8080/txd7Fd/030774/66381
-#EXTINF:-1 group-title="国际",CTV Toronto HD
-http://panelguys.top:8080/txd7Fd/030774/47296
-#EXTINF:-1 group-title="国际",CTV2 Vancouver
-http://panelguys.top:8080/txd7Fd/030774/57316
-#EXTINF:-1 group-title="国际",CTV2 Windsor HD
-http://panelguys.top:8080/txd7Fd/030774/77165
-#EXTINF:-1 group-title="国际",CTV Barrie Ontario
-http://panelguys.top:8080/txd7Fd/030774/57373
-#EXTINF:-1 group-title="国际",Disney Junior
-http://panelguys.top:8080/txd7Fd/030774/57349
-#EXTINF:-1 group-title="国际",Food Network
-http://panelguys.top:8080/txd7Fd/030774/57247
-#EXTINF:-1 group-title="国际",FXX
-http://panelguys.top:8080/txd7Fd/030774/57429
-#EXTINF:-1 group-title="国际",Game Show Network
-http://panelguys.top:8080/txd7Fd/030774/57430
-#EXTINF:-1 group-title="国际",Global News Kingston
-http://panelguys.top:8080/txd7Fd/030774/57432
-#EXTINF:-1 group-title="国际",Global Edmonton News
-http://panelguys.top:8080/txd7Fd/030774/58724
-#EXTINF:-1 group-title="国际",Global Halifax News
-http://panelguys.top:8080/txd7Fd/030774/57434
-#EXTINF:-1 group-title="国际",Global News Regina
-http://panelguys.top:8080/txd7Fd/030774/66384
-#EXTINF:-1 group-title="国际",Global Saskatoon
-http://panelguys.top:8080/txd7Fd/030774/66383
-#EXTINF:-1 group-title="国际",GLOBAL TORONTO
-http://panelguys.top:8080/txd7Fd/030774/57435
-#EXTINF:-1 group-title="国际",HGTV
-http://panelguys.top:8080/txd7Fd/030774/57273
-#EXTINF:-1 group-title="国际",MSNBC
-http://panelguys.top:8080/txd7Fd/030774/47332
-#EXTINF:-1 group-title="国际",National Geographic Wild
-http://panelguys.top:8080/txd7Fd/030774/57280
-#EXTINF:-1 group-title="国际",National Geographic
-http://panelguys.top:8080/txd7Fd/030774/47339
-#EXTINF:-1 group-title="国际",NFL NETWORK HD
-http://panelguys.top:8080/txd7Fd/030774/47346
-#EXTINF:-1 group-title="国际",OLN 
-http://panelguys.top:8080/txd7Fd/030774/57366
-#EXTINF:-1 group-title="国际",OWN
-http://panelguys.top:8080/txd7Fd/030774/57277
-#EXTINF:-1 group-title="国际",Showcase HD
-http://panelguys.top:8080/txd7Fd/030774/47366
-#EXTINF:-1 group-title="国际",Slice TV
-http://panelguys.top:8080/txd7Fd/030774/57274
-#EXTINF:-1 group-title="国际",Smithsonian Channel
-http://panelguys.top:8080/txd7Fd/030774/47369
-#EXTINF:-1 group-title="国际",Sportsnet 360
-http://panelguys.top:8080/txd7Fd/030774/57299
-#EXTINF:-1 group-title="国际",Sportsnet East HD
-http://panelguys.top:8080/txd7Fd/030774/57298
-#EXTINF:-1 group-title="国际",Sportsnet One
-http://panelguys.top:8080/txd7Fd/030774/47379
-#EXTINF:-1 group-title="国际",Sportsnet Ontario
-http://panelguys.top:8080/txd7Fd/030774/11649
-#EXTINF:-1 group-title="国际",Sportsnet Pacific
-http://panelguys.top:8080/txd7Fd/030774/9860
-#EXTINF:-1 group-title="国际",Sportsnet West
-http://panelguys.top:8080/txd7Fd/030774/20975
-#EXTINF:-1 group-title="国际",Sportsnet World HD
-http://panelguys.top:8080/txd7Fd/030774/75675
-#EXTINF:-1 group-title="国际",TSN 1
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/7973
-#EXTINF:-1 group-title="国际",TSN 2
-http://panelguys.top:8080/txd7Fd/030774/16129
-#EXTINF:-1 group-title="国际",TSN 3
-http://panelguys.top:8080/txd7Fd/030774/47444
-#EXTINF:-1 group-title="国际",TSN 4
-http://panelguys.top:8080/txd7Fd/030774/66783
-#EXTINF:-1 group-title="国际",TSN 5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
-#EXTINF:-1 group-title="国际",SKY CINEMA ACTION
-http://panelguys.top:8080/txd7Fd/030774/35254
-#EXTINF:-1 group-title="国际",SKY CINEMA DRAMA
-http://panelguys.top:8080/txd7Fd/030774/35251
-#EXTINF:-1 group-title="国际",Sky Cinema Scifi & Horror
-http://panelguys.top:8080/txd7Fd/030774/35248
-#EXTINF:-1 group-title="国际",SKY CRIME THRILLER
-http://panelguys.top:8080/txd7Fd/030774/35252
-#EXTINF:-1 group-title="国际",SKY GREATS
-http://panelguys.top:8080/txd7Fd/030774/35249
-#EXTINF:-1 group-title="国际",Channel 5
-http://panelguys.top:8080/txd7Fd/030774/53653
-#EXTINF:-1 group-title="国际",Discovery Channel
-http://panelguys.top:8080/txd7Fd/030774/53684
-#EXTINF:-1 group-title="国际",DISCOVERY FAMILY CHANNEL
-http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="国际",DISCOVERY LIFE
-http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 group-title="国际",Discovery Science
-http://fl1.moveonjoy.com/Discovery_Science/index.m3u8
-#EXTINF:-1 group-title="国际",DISNEY XD
-http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="国际",Discovery History
-http://panelguys.top:8080/txd7Fd/030774/53694
-#EXTINF:-1 group-title="国际",Film 4
-http://panelguys.top:8080/txd7Fd/030774/53702
-#EXTINF:-1 group-title="国际",H2
-http://panelguys.top:8080/txd7Fd/030774/53692
-#EXTINF:-1 group-title="国际",ITV 3
-http://panelguys.top:8080/txd7Fd/030774/53665
-#EXTINF:-1 group-title="国际",ITV2 HD
-http://panelguys.top:8080/txd7Fd/030774/53671
-#EXTINF:-1 group-title="国际",MUTV
-http://panelguys.top:8080/txd7Fd/030774/53717
-#EXTINF:-1 group-title="国际",NICKELODEON
-http://panelguys.top:8080/txd7Fd/030774/53728
-#EXTINF:-1 group-title="国际",Sky Cinema Animation
-http://panelguys.top:8080/txd7Fd/030774/53698
-#EXTINF:-1 group-title="国际",Sky Cinema Family
-http://panelguys.top:8080/txd7Fd/030774/53699
-#EXTINF:-1 group-title="国际",Sky Cinema Premier
-http://panelguys.top:8080/txd7Fd/030774/35256
-#EXTINF:-1 group-title="国际",Sky Cinema Comedy
-http://panelguys.top:8080/txd7Fd/030774/53661
-#EXTINF:-1 group-title="国际",Sky Sports Action
-http://panelguys.top:8080/txd7Fd/030774/53705
-#EXTINF:-1 group-title="国际",Sky Sports Arena
-http://panelguys.top:8080/txd7Fd/030774/35238
-#EXTINF:-1 group-title="国际",Sky Sports F1
-http://panelguys.top:8080/txd7Fd/030774/53704
-#EXTINF:-1 group-title="国际",Sky Sports Golf
-http://panelguys.top:8080/txd7Fd/030774/35240
-#EXTINF:-1 group-title="国际",Sky Sports Main Event
-http://panelguys.top:8080/txd7Fd/030774/35243
-#EXTINF:-1 group-title="国际",Sky Sports Mix
-http://panelguys.top:8080/txd7Fd/030774/53706
-#EXTINF:-1 group-title="国际",Sky Sports News
-http://panelguys.top:8080/txd7Fd/030774/35241
-#EXTINF:-1 group-title="国际",Willow Cricket
-http://panelguys.top:8080/txd7Fd/030774/41979
-#EXTINF:-1 group-title="国际",World Poker
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-#EXTINF:-1 group-title="国际",Sky Sports Cricket
-http://panelguys.top:8080/txd7Fd/030774/45940
-#EXTINF:-1 group-title="国际",Eurosport
-http://45.159.74.22/Eurosport/playlist.m3u8
-#EXTINF:-1 group-title="国际",Lifetime Movies
-http://panelguys.top:8080/txd7Fd/030774/20863
-#EXTINF:-1 group-title="国际",NBC Sports Network
-http://panelguys.top:8080/txd7Fd/030774/46725
-#EXTINF:-1 group-title="国际",WWE NETWORK
-http://panelguys.top:8080/txd7Fd/030774/11645
-#EXTINF:-1 group-title="国际",Bally Sports Southwest
-http://panelguys.top:8080/txd7Fd/030774/21843
-#EXTINF:-1 group-title="国际",FanDuel Sports West
-http://panelguys.top:8080/txd7Fd/030774/20932
-#EXTINF:-1 group-title="国际",PT Eleven Sports 1
-http://panelguys.top:8080/txd7Fd/030774/35264
-#EXTINF:-1 group-title="国际",ESPN NEWS
-http://panelguys.top:8080/txd7Fd/030774/17707
-#EXTINF:-1 group-title="国际",FanDuel Sports Ohio
-http://panelguys.top:8080/txd7Fd/030774/17752
-#EXTINF:-1 group-title="国际",NBC Sports California
-http://panelguys.top:8080/txd7Fd/030774/20940
-#EXTINF:-1 group-title="国际",NBC Sports Chicago
-http://panelguys.top:8080/txd7Fd/030774/20941
-#EXTINF:-1 group-title="国际",NBC Sports Philly
-http://panelguys.top:8080/txd7Fd/030774/20943
-#EXTINF:-1 group-title="国际",NBC Sports Washington
-http://panelguys.top:8080/txd7Fd/030774/20944
-#EXTINF:-1 group-title="国际",ESPN SEC Network
-http://panelguys.top:8080/txd7Fd/030774/17608
-#EXTINF:-1 group-title="国际",YES Network
-http://panelguys.top:8080/txd7Fd/030774/57972
-#EXTINF:-1 group-title="国际",Court TV
-http://panelguys.top:8080/txd7Fd/030774/21092
-#EXTINF:-1 group-title="国际",UniMas
-http://panelguys.top:8080/txd7Fd/030774/57969
-#EXTINF:-1 group-title="国际",Univision
-http://panelguys.top:8080/txd7Fd/030774/15336
-#EXTINF:-1 group-title="国际",Spectrum SportsNet
-http://panelguys.top:8080/txd7Fd/030774/20946
-#EXTINF:-1 group-title="国际",StarMax
-http://panelguys.top:8080/txd7Fd/030774/13381
-#EXTINF:-1 group-title="国际",ABC
-http://panelguys.top:8080/txd7Fd/030774/22990
-#EXTINF:-1 group-title="国际",AMC
-http://panelguys.top:8080/txd7Fd/030774/18925
-#EXTINF:-1 group-title="国际",Bet Gospel
-http://panelguys.top:8080/txd7Fd/030774/66080
-#EXTINF:-1 group-title="国际",BET
-http://panelguys.top:8080/txd7Fd/030774/13702
-#EXTINF:-1 group-title="国际",Bravo
-http://panelguys.top:8080/txd7Fd/030774/20859
-#EXTINF:-1 group-title="国际",BUZZR
-http://panelguys.top:8080/txd7Fd/030774/21896
-#EXTINF:-1 group-title="国际",Cinemax
-http://panelguys.top:8080/txd7Fd/030774/13380
-#EXTINF:-1 group-title="国际",CMT
-http://panelguys.top:8080/txd7Fd/030774/46706
-#EXTINF:-1 group-title="国际",CNBC
-http://panelguys.top:8080/txd7Fd/030774/9815
-#EXTINF:-1 group-title="国际",Comet
-http://panelguys.top:8080/txd7Fd/030774/66244
-#EXTINF:-1 group-title="国际",Decades
-http://panelguys.top:8080/txd7Fd/030774/20189
-#EXTINF:-1 group-title="国际",Discovery Velocity
-http://panelguys.top:8080/txd7Fd/030774/46212
-#EXTINF:-1 group-title="国际",Magnolia Network
-http://panelguys.top:8080/txd7Fd/030774/10503
-#EXTINF:-1 group-title="国际",DOGTV
-http://panelguys.top:8080/txd7Fd/030774/53539
-#EXTINF:-1 group-title="国际",EPIX (East)
-http://panelguys.top:8080/txd7Fd/030774/13214
-#EXTINF:-1 group-title="国际",Epix Drive IN
-http://panelguys.top:8080/txd7Fd/030774/14193
-#EXTINF:-1 group-title="国际",Epix Hits
-http://panelguys.top:8080/txd7Fd/030774/12744
-#EXTINF:-1 group-title="国际",EPIX2
-http://panelguys.top:8080/txd7Fd/030774/12730
-#EXTINF:-1 group-title="国际",ESPN 1
-http://panelguys.top:8080/txd7Fd/030774/14197
-#EXTINF:-1 group-title="国际",ESPN 2
-http://panelguys.top:8080/txd7Fd/030774/2210
-#EXTINF:-1 group-title="国际",Fox Business Network
-http://panelguys.top:8080/txd7Fd/030774/17639
-#EXTINF:-1 group-title="国际",FanDuel Sports South
-http://panelguys.top:8080/txd7Fd/030774/20922
-#EXTINF:-1 group-title="国际",FX East
-http://panelguys.top:8080/txd7Fd/030774/46690
-#EXTINF:-1 group-title="国际",FXM
-http://panelguys.top:8080/txd7Fd/030774/10260
-#EXTINF:-1 group-title="国际",FYI
-http://fl1.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 group-title="国际",DIY
-http://fl1.moveonjoy.com/DIY/index.m3u8
-#EXTINF:-1 group-title="国际",Grit TV
-http://panelguys.top:8080/txd7Fd/030774/20861
-#EXTINF:-1 group-title="国际",HGTV
-http://panelguys.top:8080/txd7Fd/030774/46717
-#EXTINF:-1 group-title="国际",History Channel
-http://panelguys.top:8080/txd7Fd/030774/46724
-#EXTINF:-1 group-title="国际",INSP
-http://panelguys.top:8080/txd7Fd/030774/16262
-#EXTINF:-1 group-title="国际",ION
-http://panelguys.top:8080/txd7Fd/030774/9297
-#EXTINF:-1 group-title="国际",Laff
-http://panelguys.top:8080/txd7Fd/030774/17777
-#EXTINF:-1 group-title="国际",Lifetime
-http://panelguys.top:8080/txd7Fd/030774/46714
-#EXTINF:-1 group-title="国际",More Max
-http://panelguys.top:8080/txd7Fd/030774/17776
-#EXTINF:-1 group-title="国际",MSG Plus
-http://panelguys.top:8080/txd7Fd/030774/9276
-#EXTINF:-1 group-title="国际",Nat Geo Wild East
-http://panelguys.top:8080/txd7Fd/030774/11664
-#EXTINF:-1 group-title="国际",One America News
-http://panelguys.top:8080/txd7Fd/030774/21752
-#EXTINF:-1 group-title="国际",OUTSIDE TV
-http://panelguys.top:8080/txd7Fd/030774/20865
-#EXTINF:-1 group-title="国际",OWN
-http://panelguys.top:8080/txd7Fd/030774/46698
-#EXTINF:-1 group-title="国际",Oxygen 
-http://panelguys.top:8080/txd7Fd/030774/46695
-#EXTINF:-1 group-title="国际",Paramount Network
-http://panelguys.top:8080/txd7Fd/030774/46694
-#EXTINF:-1 group-title="国际",PixL
-http://panelguys.top:8080/txd7Fd/030774/21648
-#EXTINF:-1 group-title="国际",GAC Living
-http://panelguys.top:8080/txd7Fd/030774/75654
-#EXTINF:-1 group-title="国际",TBN
-http://panelguys.top:8080/txd7Fd/030774/21895
-#EXTINF:-1 group-title="国际",TLC
-http://panelguys.top:8080/txd7Fd/030774/47703
-#EXTINF:-1 group-title="国际",TNT West
-http://panelguys.top:8080/txd7Fd/030774/46688
-#EXTINF:-1 group-title="国际",TNT East
-http://panelguys.top:8080/txd7Fd/030774/10455
-#EXTINF:-1 group-title="国际",TRUTV East
-http://panelguys.top:8080/txd7Fd/030774/10224
-#EXTINF:-1 group-title="国际",TV Land
-http://panelguys.top:8080/txd7Fd/030774/46696
-#EXTINF:-1 group-title="国际",VICELAND
-http://panelguys.top:8080/txd7Fd/030774/46697
-#EXTINF:-1 group-title="国际",MLB Network
-http://143.244.60.30/MLB_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",ESPN NEWS
-http://143.244.60.30/ESPN_NEWS/index.m3u8
-#EXTINF:-1 group-title="国际",ESPN U
-http://143.244.60.30/ESPN_U/index.m3u8
-#EXTINF:-1 group-title="国际",MTV
-http://fl1.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 group-title="国际",MTV Live
-http://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 group-title="国际",Golf Channel
-https://fl3.moveonjoy.com/GOLF/index.m3u8
-#EXTINF:-1 group-title="国际",Travel Channel
-http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
-#EXTINF:-1 group-title="国际",TVOne
-https://fl3.moveonjoy.com/TV_ONE/index.m3u8
-#EXTINF:-1 group-title="国际",WeTV
-http://fl1.moveonjoy.com/WE_TV/index.m3u8
-#EXTINF:-1 group-title="国际",WGN
-https://fl3.moveonjoy.com/WGN/index.m3u8
-#EXTINF:-1 group-title="国际",W NETWORK
-https://fl3.moveonjoy.com/W_NETWORK/index.m3u8
-#EXTINF:-1 group-title="国际",Vice
-https://fl3.moveonjoy.com/VICELAND/index.m3u8
-#EXTINF:-1 group-title="国际",Tennis Channel
-http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="国际",SYFY
-https://fl3.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 group-title="国际",TBS
-http://fl1.moveonjoy.com/TBS/index.m3u8
-#EXTINF:-1 group-title="国际",TCM
-http://fl1.moveonjoy.com/TCM/index.m3u8
-#EXTINF:-1 group-title="国际",Fashion 4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际",Hallmark Channel
-http://panelguys.top:8080/txd7Fd/030774/46719
-#EXTINF:-1 group-title="国际",Hallmark Drama
-http://panelguys.top:8080/txd7Fd/030774/9307
-#EXTINF:-1 group-title="国际",Hallmark Movies & Mysteries
-http://panelguys.top:8080/txd7Fd/030774/10289
-#EXTINF:-1 group-title="国际",HBO HD
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/7968
-#EXTINF:-1 group-title="国际",HBO Comedy
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17974
-#EXTINF:-1 group-title="国际",HBO Signature
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17976
-#EXTINF:-1 group-title="国际",HBO West
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17977
-#EXTINF:-1 group-title="国际",HBO ZONE
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17978
-#EXTINF:-1 group-title="国际",HBO East HD
-http://panelguys.top:8080/txd7Fd/030774/46713
-#EXTINF:-1 group-title="国际",HBO 2
-http://panelguys.top:8080/txd7Fd/030774/57438
-#EXTINF:-1 group-title="国际",AMC Thrillers
-http://panelguys.top:8080/txd7Fd/030774/66243
-#EXTINF:-1 group-title="国际",Showtime East
-http://panelguys.top:8080/txd7Fd/030774/46214
-#EXTINF:-1 group-title="国际",Showtime 2
-http://panelguys.top:8080/txd7Fd/030774/13219
-#EXTINF:-1 group-title="国际",Showtime Family Zone
-http://panelguys.top:8080/txd7Fd/030774/13481
-#EXTINF:-1 group-title="国际",Showtime Women
-http://panelguys.top:8080/txd7Fd/030774/17778
-#EXTINF:-1 group-title="国际",Showtime Showcase  
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17930
-#EXTINF:-1 group-title="国际",Showtime Extreme 
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17987
-#EXTINF:-1 group-title="国际",Showtime Next  
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17989
-#EXTINF:-1 group-title="国际",Showtime West  
-http://tv.zapping.life:8080/ancharriere1/DaJmm5GvuY/17990
-#EXTINF:-1 group-title="国际",Starz Encore Westerns
-http://panelguys.top:8080/txd7Fd/030774/16263
-#EXTINF:-1 group-title="国际",MovieSphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Rakuten Action
-https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:-1 group-title="国际",Rakuten Comedy
-https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1 group-title="国际",Rakuten Drama
-https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
-#EXTINF:-1 group-title="国际",Rakuten Family
-https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
-#EXTINF:-1 group-title="国际",Rakuten Reality
-https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/master.m3u8
-#EXTINF:-1 group-title="国际",Rakuten Romance
-https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
-#EXTINF:-1 tvg-name="desire" group-title="其他频道",disire
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="brazzers" group-title="其他频道",brazzers
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="dorcel" group-title="其他频道",dorcel
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="eroxxx" group-title="其他频道",eroxxx
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="extasy" group-title="其他频道",extasy
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="erox" group-title="其他频道",erox
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="live" group-title="其他频道",live
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="其他频道",Leo HD
-http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="其他频道",Reality Kings HD
-http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="JennyLive.us" tvg-logo="https://i.imgur.com/3vsBZI3.png" group-title="其他频道",Miami TV Jenny Live (720p) [Not 24/7]
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/MpQtdTb.png" group-title="其他频道",Miami TV Mexico (1080p)
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
-#EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us" tvg-logo="https://i.imgur.com/B3DMUM9.png" group-title="其他频道",Playboy TV Latin America (1080p)
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-logo="https://i.imgur.com/avtSqUu.png" group-title="其他频道",Visit-X TV (720p)
-https://stream.visit-x.tv/vxtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",东热01
-https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
-#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",东热02
-https://video1.rhsj520.com/nyrm3/2011225/DR/n0010/index.m3u8
-#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",东热03
-https://video1.rhsj520.com/nyrm3/2011225/DR/n0008/index.m3u8
-#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",东热04
-https://video1.rhsj520.com/nyrm3/2011225/DR/n0001/index.m3u8
-#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",一本00
-https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
-#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",二本01
-https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
-#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",三本02
-https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
-#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",一本03
-http://live.redtraffic.xyz:80/bigass.m3u8
-#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="其他频道",二本04
-http://live.redtraffic.xyz:80/blowjob.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",悲剧女主播
-https://videomy.yongaomy.com:8091/20191223/TOz9KzyG/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",春埼芽衣1
-https://fc.maa1809.com/m/omsopjnoon/omsopjnoon.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",春埼芽衣2
-https://fc.maa1809.com/d/onqiitnimq/onqiitnimq.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",春埼芽衣3
-https://fc.maa1809.com/m/iiojdlpnjp/iiojdlpnjp.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",大觉醒伊贺
-https://videomy.yongaomy.com:8091/20200126/SSNI-681/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",风俗女郎都咲乃
-https://videomy.yongaomy.com:8091/20191223/jYalymoY/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",汗水少女
-https://videomy.yongaomy.com:8091/20191219/WJQJUXjc/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",河原枫
-https://fc.maa1809.com/f/qcreaitlwz/qcreaitlwz.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",嘿嘿1768神田
-https://fc.maa1808.com/g/mllotqnpol/mllotqnpol.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",嘿嘿立花琉莉
-https://fc.maa1808.com/c/rkxhwovsgf/rkxhwovsgf.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",花音1
-https://fc.maa1809.com/e/pjnvmkrplq/pjnvmkrplq.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",姫川
-https://videomy.yongaomy.com:8091/20200102/IeVDOH6i/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",姬野栞
-https://fc.maa1809.com/g/rnhlghoqyo/rnhlghoqyo.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",吉岗
-https://videomy.yongaomy.com:8091/20191223/4ZcJ3aPo/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",加勒比001THE4名
-https://fc.maa1808.com/m/ajtnayynwz/ajtnayynwz.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",加勒比206西川
-https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",加勒比350丘笑
-https://fc.maa1808.com/f/ocyxhukqvo/ocyxhukqvo.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",加勒比612希笑
-https://fc.maa1808.com/n/kqnjvnpjkm/kqnjvnpjkm.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",教育
-https://videomy.yongaomy.com:8091/20191226/OuJg40gL/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",姐姐的诱惑
-https://videomy.yongaomy.com:8091/20191226/ezCT3OZC/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",九重环奈1
-https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-493/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",九重环奈2
-https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-391/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",九重环奈3
-https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/mide-422/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",九重环奈4
-https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-503/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",九重环奈5
-https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/mide-525/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",九重环奈6
-https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-513/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",九重环奈7
-https://video1.rhsj520.com:8091/nyrm3/nvyou/0510/MIDE-535/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",笠木一香
-https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",疗愈大叔
-https://videomy.yongaomy.com:8091/20191227/jPKXM7bL/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",妹妹
-https://videomy.yongaomy.com:8091/20200126/SW-587/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",内衣模特-新名
-https://videomy.yongaomy.com:8091/20191223/1HZ8kCxt/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",帕科马马-希笑
-https://fc.maa1808.com/m/rwrhezjunn/rwrhezjunn.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",情人节希岛
-https://videomy.yongaomy.com/xiezhen/LD-011/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",晴佳
-https://fc.maa1809.com/b/inmkopifvj/inmkopifvj.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",去学校
-https://videomy.yongaomy.com:8091/20200126/IPZ-949/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",全神贯注
-https://videomy.yongaomy.com:8091/20200126/IPX-428/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",三原穗花加藤绫野
-https://fc.maa1809.com/h/qjotnrtkkh/qjotnrtkkh.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",侍奉女仆
-https://videomy.yongaomy.com:8091/20200126/MIDE-066/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",松永纱奈1
-https://fc.maa1809.com/m/roqelpimmo/roqelpimmo.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",松永纱奈2
-https://fc.maa1809.com/e/ohtlknkomr/ohtlknkomr.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",松永纱奈3
-https://fc.maa1809.com/h/soknsufnkn/soknsufnkn.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",松永纱奈4
-https://fc.maa1809.com/f/knmpkoqmjg/knmpkoqmjg.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",松永纱奈5
-https://fc.maa1809.com/d/kvrynihixm/kvrynihixm.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",松永纱奈6
-https://fc.maa1809.com/c/fkkrigoeyk/fkkrigoeyk.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",体液浓密-新名
-https://videomy.yongaomy.com:8091/20200104/wtygLh5i/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天海翼
-https://videomy.yongaomy.com:8091/20200111/IPZ-615/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌1
-https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-210/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌2
-https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-230/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌3
-https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-249/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌4
-https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-270/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌5
-https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-929/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌6
-https://video1.rhsj520.com:8091/nyrm3/snis/3/ssni-380/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌7
-https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-331/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌8
-https://video1.rhsj520.com:8091/nyrm3/snis/1/ssni-358/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌9
-https://videomy.yongaomy.com:8091/20200110/SNIS-270/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌10
-https://videomy.yongaomy.com:8091/20200110/SNIS-463/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌11
-https://videomy.yongaomy.com:8091/20200110/SNIS-311/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",天使萌12
-https://videomy.yongaomy.com:8091/20200112/SNIS-440/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",西川1
-https://videomy.yongaomy.com:8091/20200112/MIDE-124/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",相部屋
-https://videomy.yongaomy.com:8091/20200126/SSNI-674/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",香皂小姐姐
-https://videomy.yongaomy.com:8091/20191223/R6Tq7Ldb/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",筱原友香1
-https://fc.maa1809.com/e/ktpmorpkrk/ktpmorpkrk.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",筱原友香2
-https://fc.maa1809.com/d/jnqjlprmom/jnqjlprmom.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",咲咲原凛星奈爱
-https://fc.maa1809.com/d/ojpmkokpmm/ojpmkokpmm.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",绪方艾丽娜
-https://videomy.yongaomy.com:8091/20200126/CHN-167/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",伊藤优希
-https://fc.maa1809.com/d/hmjfiplneo/hmjfiplneo.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",音羽
-https://fc.maa1809.com/c/nokhxqnqpj/nokhxqnqpj.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",银河迹美
-https://videomy.yongaomy.com:8091/20200126/MDTM-357/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",永濑唯
-https://fc.maa1809.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",诱惑的姐姐1
-https://videomy.yongaomy.com:8091/20200112/MIDE-118/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",诱惑的姐姐2
-https://videomy.yongaomy.com:8091/20200111/MIDE-051/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",欲求反对1
-https://videomy.yongaomy.com:8091/20200126/MEYD-564/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",欲求反对2
-https://videomy.yongaomy.com:8091/20200126/MEYD-248/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",欲求反对3
-https://videomy.yongaomy.com:8091/20200103/ocnUX7Tt/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",元气姐姐
-https://videomy.yongaomy.com:8091/20200126/IPX-434/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",职业OL
-https://videomy.yongaomy.com:8091/20191222/WGaysfrW/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",制服美少女2
-https://videomy.yongaomy.com:8091/20200104/ssClhQbc/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",奏美沙
-https://fc.maa1809.com/e/chifuosxst/chifuosxst.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",奏音花音
-https://videomy.yongaomy.com/20210907/Ekcv3tYC/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",AMBI-112奏音花音
-https://videomy.yongaomy.com/20211023/MtGqJmJr/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",APKH-123奏音花音
-https://videomy.yongaomy.com/20210825/d1JxSvZO/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",BLK-458奏音花音
-https://videomy.yongaomy.com/20211028/aA6JBM10/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",blk-547藤森里穂
-https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/75b14a5f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",blk-552怜岚
-https://t15.cdn2020.com:12339/video/m3u8/2022/01/30/0430469f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib002姬川
-https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib004西川
-https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib146西川
-https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib182西川
-https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib239西川
-https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib288西川
-https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib311西川
-https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib337西川
-https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib339姬川
-https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib363西川
-https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib375姬川
-https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib375姬川
-https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib420丘笑
-https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib431北川
-https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib433姬川
-https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib449神田
-https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib457北川
-https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib474立花琉莉
-https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib477立花琉莉
-https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib478北川
-https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib495神田
-https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib531立花琉莉
-https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib533丘笑
-https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib541神田
-https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib563爱莉
-https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib563七濑
-https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib589立花琉莉
-https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib639神田
-https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib665姬川
-https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib665姬川
-https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib674杏奈
-https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib675神田
-https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib710神田
-https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib717杏奈
-https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib744立花琉莉
-https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",carib758美笑爱
-https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",cawd-092皆川优奈
-https://siwazywcdn2.com:5278/zhongwenzimu/5JDoELrc/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo0705杏奈
-https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1199希笑
-https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1243水谷
-https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1262西川
-https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1275水谷
-https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1395姬川
-https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1478丘笑
-https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1544姬川
-https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1570神田
-https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1590神田
-https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1601北川
-https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1638姬川
-https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1691神田
-https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1722杏奈
-https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",heyzo1786杏奈
-https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",KNAM-005奏音花音
-https://videomy.yongaomy.com/20211106/5KZCzleX/1500kb/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo273水谷
-https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo311水谷
-https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo350西川
-https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo366水谷
-https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo419西川
-https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo450西川
-https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo488姬川
-https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo518姬川
-https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo559北川
-https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo597西川
-https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo613七濑
-https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo618水谷
-https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo764杏奈
-https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
-#EXTINF:-1 tvg-logo="https://i2.100024.xyz/2023/09/11/11a5d62.webp" group-title="其他频道",pondo793杏奈
-https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Anal (720p)
-https://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Asian (720p)
-https://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigAss.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Big Ass (720p)
-https://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigDick.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Big Dick (720p)
-https://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBigTits.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Big Tits (720p)
-https://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlonde.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Blonde (720p)
-https://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBlowjob.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Blowjob (720p)
-https://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetBrunette.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Brunette (720p)
-https://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetCompilation.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Compilation (720p)
-https://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetCuckold.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Cuckold (720p)
-https://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetFetish.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Fetish (720p)
-https://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetGangbang.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Gangbang (720p)
-https://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetHardcore.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Hardcore (720p)
-https://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetInterracial.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Interracial (720p)
-https://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLatina.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Latina (720p)
-https://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLesbian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Lesbian (720p)
-https://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetLiveCams.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Live Cams (720p)
-https://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetMILF.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net MILF (720p)
-https://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPornstar.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Pornstar (720p)
-https://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetPOV.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net POV (720p)
-https://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetRough.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Rough (720p)
-https://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetRussian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Russian (720p)
-https://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetTeen.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Teen (720p)
-https://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetThreesome.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Threesome (720p)
-https://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 tvg-id="AdultIPTVnetWoman.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" group-title="其他频道",AdultIPTV.net Woman (720p)
-https://live.redtraffic.net/woman.m3u8
-#EXTINF:-1 tvg-id="Babestation24.ch" tvg-logo="https://i.imgur.com/DNJP1gi.png" group-title="其他频道",Babestation24 (720p)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
-#EXTINF:-1 tvg-id="BlueHustler.nl" tvg-logo="https://i.imgur.com/G1YaX0Q.png" group-title="其他频道",Blue Hustler (720p)
-http://193.33.240.8:8080/hustler_hd/index.m3u8
-#EXTINF:-1 tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.imgur.com/95nP0Pb.png" group-title="其他频道",Brazzers TV Europe (720p)
-https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="DorcelTV.nl" tvg-logo="https://i.imgur.com/RkzyjEd.png" group-title="其他频道",Dorcel TV (720p)
-https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="EroXHD.nl" tvg-logo="https://i.imgur.com/1EOQFqE.png" group-title="其他频道",EroX HD (720p)
-https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="EroXXXHD.nl" tvg-logo="https://i.imgur.com/ZNBLK41.png" group-title="其他频道",EroXXX HD (720p)
-https://cdn-main.lolokoko.tv/Eroxxx.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HustlerHD.nl" tvg-logo="https://i.imgur.com/41Ej2io.png" group-title="其他频道",Hustler HD (720p)
-https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="MyCamTVAnal.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="其他频道",MyCamTV Anal (720p)
-https://live.mycamtv.com/anal.m3u8
-#EXTINF:-1 tvg-id="MyCamTVArab.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="其他频道",MyCamTV Arab (720p)
-http://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 tvg-id="MyCamTVAsian.cy" tvg-logo="https://i.imgur.com/FBSodo6.png" group-title="其他频道",MyCamTV Asian (720p)
-https://live.mycamtv.com/asian.m3u8
-#EXTINF:-1 tvg-id="MyCamTVBigAss.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="其他频道",MyCamTV Big Ass (720p)
-https://live.mycamtv.com/defstream.m3u8
-#EXTINF:-1 tvg-id="MyCamTVBigTits.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="其他频道",MyCamTV Big Tits (720p)
-https://live.mycamtv.com/bigtits.m3u8
-#EXTINF:-1 tvg-id="MyCamTVBlonde.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="其他频道",MyCamTV Blonde (720p)
-https://live.mycamtv.com/blonde.m3u8
-#EXTINF:-1 tvg-id="MyCamTVBlowjob.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="其他频道",MyCamTV Blowjob (720p)
-http://live.mycamtv.com/blowjob.m3u8
-#EXTINF:-1 tvg-id="MyCamTVBrunette.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="其他频道",MyCamTV Brunette (720p)
-https://live.mycamtv.com/brunette.m3u8
-#EXTINF:-1 tvg-id="MyCamTVLatina.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="其他频道",MyCamTV Latina (720p)
-https://live.mycamtv.com/latina.m3u8
-#EXTINF:-1 tvg-id="MyCamTVMedium.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="其他频道",MyCamTV Medium (720p)
-http://live.mycamtv.com/medium.m3u8
-#EXTINF:-1 tvg-id="MyCamTVMILF.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="其他频道",MyCamTV MILF (720p)
-http://live.mycamtv.com/milf.m3u8
-#EXTINF:-1 tvg-id="MyCamTVSkinny.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="其他频道",MyCamTV Skinny (720p)
-https://live.mycamtv.com/arab.m3u8
-#EXTINF:-1 tvg-id="MyCamTVSquirt.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="其他频道",MyCamTV Squirt (720p)
-https://live.mycamtv.com/squirt.m3u8
-#EXTINF:-1 tvg-id="MyCamTVTeen.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="其他频道",MyCamTV Teen (720p)
-http://live.mycamtv.com/teen.m3u8
-#EXTINF:-1 tvg-id="MyCamTVWhite.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="其他频道",MyCamTV White (720p)
-https://live.mycamtv.com/white.m3u8
-#EXTINF:-1 tvg-id="MyCamTVYoung.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="其他频道",MyCamTV Young (720p)
-http://live.mycamtv.com/young.m3u8
-#EXTINF:-1 tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" group-title="其他频道",O-la-la! (576p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Sky",Sky Calcio 1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium882/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Sky",Sky Calcio 2
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium871/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Sky",Sky Calcio 3 (253) Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium872/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Sky",Sky Calcio 4 (254) Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium873/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Sky",Sky Calcio 5 (255) Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium874/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 6" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Sky",Sky Calcio 6 (256) Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium875/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Calcio 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Sky",Sky Calcio 7 (257) Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium876/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaAction(src01).it" tvg-name="Sky Cinema Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-action-it.png" group-title="Sky",Sky Cinema Action Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium877/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaCollection(src01).it" tvg-name="Sky Cinema Collection" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-collection-it.png" group-title="Sky",Sky Cinema Collection Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium861/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaComedy(src01).it" tvg-name="Sky Cinema Comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-comedy-it.png" group-title="Sky",Sky Cinema Comedy Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium859/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaDrama(src01).it" tvg-name="Sky Cinema Drama" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-drama-it.png" group-title="Sky",Sky Cinema Drama Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium862/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaDueplus24(src01).it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Sky",Sky Cinema Due +24 Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium867/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaFamily(src01).it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-family-it.png" group-title="Sky",Sky Cinema Family Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium866/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaRomance(src01).it" tvg-name="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-romance-it.png" group-title="Sky",Sky Cinema Romance Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium865/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaSuspense(src01).it" tvg-name="Sky Cinema Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-suspense-it.png" group-title="Sky",Sky Cinema Suspense Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium864/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaUnoplus24(src01).it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Sky",Sky Cinema Uno +24 Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium868/index.m3u8
+#EXTINF:-1 tvg-id="SkyCinemaUno(src01).it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-cinema-uno-it.png" group-title="Sky",Sky Cinema Uno Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium863/index.m3u8
+#EXTINF:-1 tvg-id="SkySerie(src01).it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-serie-it.png" group-title="Sky",Sky Serie Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium860/index.m3u8
+#EXTINF:-1 tvg-id="Sky.Sport24.it" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-24-it.png" group-title="Sky",Sky Sport 24 Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium880/index.m3u8
+#EXTINF:-1 tvg-id="SkySportArena(src01).it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-arena-it.png" group-title="Sky",Sky Sport Arena Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium869/index.m3u8
+#EXTINF:-1 tvg-id="SkySportCalcio(src01).it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-calcio-it.png" group-title="Sky",Sky Sport Calcio Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium462/index.m3u8
+#EXTINF:-1 tvg-id="SkySportF1207478(src01).it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-f1-it.png" group-title="Sky",Sky Sport F1 Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium870/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-football-it.png" group-title="Sky",Sky Sport Football Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium577/index.m3u8
+#EXTINF:-1 tvg-id="SkySportMotoGP(src01).it" tvg-name="Sky Sport MotoGPv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-motogp-it.png" group-title="Sky",Sky Sport MotoGPv
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium460/index.m3u8
+#EXTINF:-1 tvg-id="SkySportTennis205559(src01).it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-tennis-it.png" group-title="Sky",Sky Sport Tennis Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium575/index.m3u8
+#EXTINF:-1 tvg-id="SkySportUno(src01).it" tvg-name="Sky Sport UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-uno-it.png" group-title="Sky",Sky Sport UNO Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium576/index.m3u8
+#EXTINF:-1 tvg-id="SkySportGolf206768(src01).it" tvg-name="Sky Sports Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-golf-it.png" group-title="Sky",Sky Sports Golf Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium461/index.m3u8
+#EXTINF:-1 tvg-id="SkyUno(src01).it" tvg-name="Sky UNO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-uno-it.png" group-title="Sky",Sky UNO Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium574/index.m3u8
